@@ -1,0 +1,1802 @@
+[
+  {
+    "customer_id": "C1000",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1001",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1002",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1003",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1004",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1005",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1006",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1007",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1008",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1009",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1010",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1011",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1012",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1013",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1014",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1015",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1016",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1017",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1018",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1019",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1020",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1021",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1022",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1023",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1024",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1025",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1026",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1027",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1028",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1029",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1030",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1031",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1032",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1033",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1034",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1035",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1036",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1037",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1038",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1039",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1040",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1041",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1042",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1043",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1044",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1045",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1046",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1047",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1048",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1049",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1050",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1051",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1052",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1053",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1054",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1055",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1056",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1057",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1058",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1059",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1060",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1061",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1062",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1063",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1064",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1065",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1066",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1067",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1068",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1069",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1070",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1071",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1072",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1073",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1074",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1075",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1076",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1077",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1078",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1079",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1080",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1081",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1082",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1083",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1084",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1085",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1086",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1087",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1088",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1089",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1090",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1091",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1092",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1093",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1094",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1095",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1096",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1097",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1098",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1099",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1100",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1101",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1102",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1103",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1104",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1105",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1106",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1107",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1108",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1109",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1110",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1111",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1112",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1113",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1114",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1115",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1116",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1117",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1118",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1119",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1120",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1121",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1122",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1123",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1124",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1125",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1126",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1127",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1128",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1129",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1130",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1131",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1132",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1133",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1134",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1135",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1136",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1137",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1138",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1139",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1140",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1141",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1142",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1143",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1144",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1145",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1146",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1147",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1148",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1149",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1150",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1151",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1152",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1153",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1154",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1155",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1156",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1157",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1158",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1159",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1160",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1161",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1162",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1163",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1164",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1165",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1166",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1167",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1168",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1169",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1170",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1171",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1172",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1173",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1174",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1175",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1176",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1177",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1178",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1179",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1180",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1181",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1182",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1183",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1184",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1185",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1186",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1187",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1188",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1189",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1190",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1191",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1192",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1193",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1194",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1195",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1196",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1197",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1198",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1199",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1200",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1201",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1202",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1203",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1204",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1205",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1206",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1207",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1208",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1209",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1210",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1211",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1212",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1213",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1214",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1215",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1216",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1217",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1218",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1219",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1220",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1221",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1222",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1223",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1224",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1225",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1226",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1227",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1228",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1229",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1230",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1231",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1232",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1233",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1234",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1235",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1236",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1237",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1238",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1239",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1240",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1241",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1242",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1243",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1244",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1245",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1246",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1247",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1248",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1249",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1250",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1251",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1252",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1253",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1254",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1255",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1256",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1257",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1258",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1259",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1260",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1261",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1262",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1263",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1264",
+    "marital_status": "Single",
+    "dependents": 3,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1265",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1266",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1267",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1268",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1269",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1270",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1271",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1272",
+    "marital_status": "Married",
+    "dependents": 3,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1273",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1274",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1275",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1276",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1277",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1278",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1279",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1280",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1281",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1282",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1283",
+    "marital_status": "Single",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1284",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1285",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1286",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1287",
+    "marital_status": "Single",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1288",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1289",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1290",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1291",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1292",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1293",
+    "marital_status": "Married",
+    "dependents": 0,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1294",
+    "marital_status": "Single",
+    "dependents": 4,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1295",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  },
+  {
+    "customer_id": "C1296",
+    "marital_status": "Married",
+    "dependents": 1,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1297",
+    "marital_status": "Single",
+    "dependents": 1,
+    "preferred_contact": "Phone"
+  },
+  {
+    "customer_id": "C1298",
+    "marital_status": "Married",
+    "dependents": 4,
+    "preferred_contact": "Email"
+  },
+  {
+    "customer_id": "C1299",
+    "marital_status": "Married",
+    "dependents": 2,
+    "preferred_contact": "SMS"
+  }
+]
