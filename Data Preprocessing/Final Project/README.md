@@ -260,5 +260,5 @@ enough for someone preparing their **first** preprocessing project.
 
 ## 🙌 Author
 
-**Herit Tanna**
-*Data Science | Machine Learning | Data Analysis*
+**Ajay sosa**
+*Data Science | Machine Learning*
