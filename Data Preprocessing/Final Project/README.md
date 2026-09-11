@@ -12,8 +12,7 @@ ML-ready table — one technique at a time.*
 
 </div>
 
-> **Note:** This version has been reviewed and fixed against the original project brief.
-> See **[🔧 Fixes Applied](#-fixes-applied-vs-the-original-draft)** below for exactly what changed.
+
 
 ---
 
