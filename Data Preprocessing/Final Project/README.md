@@ -113,9 +113,6 @@ Dataset/
           └──▶  scaled_dataset.csv          (StandardScaler applied)
 ```
 
-> 💡 **Beginner tip:** Parts C–G each explore *one* technique at a time on a
-> fresh copy of the data, purely to compare options. Part H is where the
-> single best method from each part is combined into the real, final pipeline.
 
 ---
 
