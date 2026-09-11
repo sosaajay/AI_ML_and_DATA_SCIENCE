@@ -8,7 +8,7 @@ ML-ready table — one technique at a time.*
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![Python](https://img.shields.io/badge/python-pandas%20%7C%20scikit--learn-blue)
-![Level](https://img.shields.io/badge/level-beginner--friendly-orange)
+
 
 </div>
 
