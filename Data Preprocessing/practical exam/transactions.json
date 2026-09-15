@@ -1,0 +1,4802 @@
+[
+  {
+    "customer_id": "CUST-0001",
+    "product_id": "PROD021",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-04-30",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0002",
+    "product_id": "PROD034",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-08-04",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0003",
+    "product_id": "PROD015",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-15",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0004",
+    "product_id": "PROD038",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-07-04",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0005",
+    "product_id": "PROD017",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-09-03",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0006",
+    "product_id": "PROD003",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-10-17",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0007",
+    "product_id": "PROD010",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-10-13",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0008",
+    "product_id": "PROD017",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-02-14",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0009",
+    "product_id": "PROD002",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-06-23",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0010",
+    "product_id": "PROD017",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-09-10",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0011",
+    "product_id": "PROD033",
+    "total_purchases": 8,
+    "last_purchase_date": "2024-09-10",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0012",
+    "product_id": "PROD023",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-01-08",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0013",
+    "product_id": "PROD012",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-04-01",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0014",
+    "product_id": "PROD033",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-10-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0015",
+    "product_id": "PROD011",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-04-21",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0016",
+    "product_id": "PROD034",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-04-05",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0017",
+    "product_id": "PROD040",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-11-29",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0018",
+    "product_id": "PROD020",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-08-25",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0019",
+    "product_id": "PROD008",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-03-10",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0020",
+    "product_id": "PROD035",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-08",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0021",
+    "product_id": "PROD005",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-07-26",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0022",
+    "product_id": "PROD006",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-08-03",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0023",
+    "product_id": "PROD024",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-03-31",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0024",
+    "product_id": "PROD015",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-08-05",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0025",
+    "product_id": "PROD030",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-20",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0026",
+    "product_id": "PROD021",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-04-27",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0027",
+    "product_id": "PROD020",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-18",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0028",
+    "product_id": "PROD020",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-05-30",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0029",
+    "product_id": "PROD001",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-15",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0030",
+    "product_id": "PROD013",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-10-28",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0031",
+    "product_id": "PROD021",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-12-15",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0032",
+    "product_id": "PROD021",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-08-27",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0033",
+    "product_id": "PROD013",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-10-09",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0034",
+    "product_id": "PROD036",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-05",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0035",
+    "product_id": "PROD008",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-06-06",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0036",
+    "product_id": "PROD032",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-03-30",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0037",
+    "product_id": "PROD025",
+    "total_purchases": 0,
+    "last_purchase_date": "2024-07-26",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0038",
+    "product_id": "PROD003",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-05-16",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0039",
+    "product_id": "PROD030",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-05-16",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0040",
+    "product_id": "PROD008",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-21",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0041",
+    "product_id": "PROD023",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-02-19",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0042",
+    "product_id": "PROD030",
+    "total_purchases": 0,
+    "last_purchase_date": "2024-04-25",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0043",
+    "product_id": "PROD009",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0044",
+    "product_id": "PROD022",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-11-04",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0045",
+    "product_id": "PROD020",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-29",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0046",
+    "product_id": "PROD039",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-02-08",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0047",
+    "product_id": "PROD001",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-11-26",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0048",
+    "product_id": "PROD002",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-01-24",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0049",
+    "product_id": "PROD036",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-01",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0050",
+    "product_id": "PROD007",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-08-04",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0051",
+    "product_id": "PROD034",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-08-12",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0052",
+    "product_id": "PROD031",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-03-01",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0053",
+    "product_id": "PROD023",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-08-22",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0054",
+    "product_id": "PROD034",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-06-15",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0055",
+    "product_id": "PROD024",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-01-19",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0056",
+    "product_id": "PROD019",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-09-19",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0057",
+    "product_id": "PROD035",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-08-15",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0058",
+    "product_id": "PROD001",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-11-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0059",
+    "product_id": "PROD027",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-26",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0060",
+    "product_id": "PROD016",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-08-04",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0061",
+    "product_id": "PROD024",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-04-28",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0062",
+    "product_id": "PROD010",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-04-22",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0063",
+    "product_id": "PROD027",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-04-18",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0064",
+    "product_id": "PROD004",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-02-08",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0065",
+    "product_id": "PROD008",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-02-11",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0066",
+    "product_id": "PROD021",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-05-20",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0067",
+    "product_id": "PROD023",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-02-09",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0068",
+    "product_id": "PROD010",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-03-31",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0069",
+    "product_id": "PROD031",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-21",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0070",
+    "product_id": "PROD036",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-06-30",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0071",
+    "product_id": "PROD018",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-02-20",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0072",
+    "product_id": "PROD039",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-02-02",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0073",
+    "product_id": "PROD013",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-02-11",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0074",
+    "product_id": "PROD035",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-04-14",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0075",
+    "product_id": "PROD010",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-02-03",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0076",
+    "product_id": "PROD013",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-05-16",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0077",
+    "product_id": "PROD030",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-06-17",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0078",
+    "product_id": "PROD023",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-26",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0079",
+    "product_id": "PROD015",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-02-24",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0080",
+    "product_id": "PROD024",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-10-01",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0081",
+    "product_id": "PROD021",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-10-27",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0082",
+    "product_id": "PROD007",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-06-05",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0083",
+    "product_id": "PROD017",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-05-20",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0084",
+    "product_id": "PROD005",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-08-18",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0085",
+    "product_id": "PROD011",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-08-07",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0086",
+    "product_id": "PROD032",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-06-08",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0087",
+    "product_id": "PROD019",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-07-22",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0088",
+    "product_id": "PROD021",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-03-26",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0089",
+    "product_id": "PROD012",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-12-14",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0090",
+    "product_id": "PROD028",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-06-22",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0091",
+    "product_id": "PROD001",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-03-31",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0092",
+    "product_id": "PROD015",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-08-26",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0093",
+    "product_id": "PROD004",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-02",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0094",
+    "product_id": "PROD025",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-06-30",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0095",
+    "product_id": "PROD036",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-09-12",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0096",
+    "product_id": "PROD016",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-07-15",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0097",
+    "product_id": "PROD011",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-10-11",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0098",
+    "product_id": "PROD019",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-12-27",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0099",
+    "product_id": "PROD010",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-05-16",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0100",
+    "product_id": "PROD012",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-01-31",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0101",
+    "product_id": "PROD006",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-04-18",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0102",
+    "product_id": "PROD033",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-03-17",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0103",
+    "product_id": "PROD010",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-07-11",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0104",
+    "product_id": "PROD007",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-01-16",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0105",
+    "product_id": "PROD020",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-03-05",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0106",
+    "product_id": "PROD001",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-07-05",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0107",
+    "product_id": "PROD023",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-10-10",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0108",
+    "product_id": "PROD009",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-05-04",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0109",
+    "product_id": "PROD025",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-09-06",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0110",
+    "product_id": "PROD031",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-04-01",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0111",
+    "product_id": "PROD024",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-04",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0112",
+    "product_id": "PROD035",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-08-16",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0113",
+    "product_id": "PROD010",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-20",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0114",
+    "product_id": "PROD032",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-01-07",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0115",
+    "product_id": "PROD023",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0116",
+    "product_id": "PROD022",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-05-24",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0117",
+    "product_id": "PROD004",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-02-08",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0118",
+    "product_id": "PROD024",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-01-02",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0119",
+    "product_id": "PROD006",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-12-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0120",
+    "product_id": "PROD004",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-11-05",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0121",
+    "product_id": "PROD005",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-09-01",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0122",
+    "product_id": "PROD035",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-09",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0123",
+    "product_id": "PROD001",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-01-26",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0124",
+    "product_id": "PROD002",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-06",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0125",
+    "product_id": "PROD011",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-04-29",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0126",
+    "product_id": "PROD008",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-12-25",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0127",
+    "product_id": "PROD008",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-12-30",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0128",
+    "product_id": "PROD032",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-11-21",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0129",
+    "product_id": "PROD012",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-08-05",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0130",
+    "product_id": "PROD033",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-02-02",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0131",
+    "product_id": "PROD010",
+    "total_purchases": 9,
+    "last_purchase_date": "2023-01-06",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0132",
+    "product_id": "PROD006",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-22",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0133",
+    "product_id": "PROD025",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-04-21",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0134",
+    "product_id": "PROD026",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-12-26",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0135",
+    "product_id": "PROD029",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-09-05",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0136",
+    "product_id": "PROD009",
+    "total_purchases": 8,
+    "last_purchase_date": "2024-09-08",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0137",
+    "product_id": "PROD040",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-12-20",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0138",
+    "product_id": "PROD034",
+    "total_purchases": 8,
+    "last_purchase_date": "2023-05-03",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0139",
+    "product_id": "PROD017",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-01-20",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0140",
+    "product_id": "PROD014",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-07-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0141",
+    "product_id": "PROD024",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-06-25",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0142",
+    "product_id": "PROD028",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-04-12",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0143",
+    "product_id": "PROD002",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-10-25",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0144",
+    "product_id": "PROD027",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-01-16",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0145",
+    "product_id": "PROD027",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-09-07",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0146",
+    "product_id": "PROD019",
+    "total_purchases": 0,
+    "last_purchase_date": "2024-04-08",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0147",
+    "product_id": "PROD039",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-09-11",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0148",
+    "product_id": "PROD016",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-13",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0149",
+    "product_id": "PROD019",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-01-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0150",
+    "product_id": "PROD001",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-27",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0151",
+    "product_id": "PROD015",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-07-23",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0152",
+    "product_id": "PROD031",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-07-03",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0153",
+    "product_id": "PROD003",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-06-30",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0154",
+    "product_id": "PROD009",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-30",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0155",
+    "product_id": "PROD014",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-07-10",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0156",
+    "product_id": "PROD020",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-01-22",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0157",
+    "product_id": "PROD002",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-09-02",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0158",
+    "product_id": "PROD015",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-29",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0159",
+    "product_id": "PROD038",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-04-15",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0160",
+    "product_id": "PROD037",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-06-05",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0161",
+    "product_id": "PROD036",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-01-21",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0162",
+    "product_id": "PROD017",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-07-26",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0163",
+    "product_id": "PROD011",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-11-24",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0164",
+    "product_id": "PROD007",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-03-26",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0165",
+    "product_id": "PROD037",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-05-18",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0166",
+    "product_id": "PROD008",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-03-03",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0167",
+    "product_id": "PROD035",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-03-06",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0168",
+    "product_id": "PROD014",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-01-27",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0169",
+    "product_id": "PROD006",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-10-11",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0170",
+    "product_id": "PROD032",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-07-15",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0171",
+    "product_id": "PROD010",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-05-20",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0172",
+    "product_id": "PROD026",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-02-07",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0173",
+    "product_id": "PROD029",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-09-06",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0174",
+    "product_id": "PROD027",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-04-28",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0175",
+    "product_id": "PROD017",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-05-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0176",
+    "product_id": "PROD007",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-07-17",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0177",
+    "product_id": "PROD035",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-12-09",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0178",
+    "product_id": "PROD024",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-02-26",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0179",
+    "product_id": "PROD021",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-04-13",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0180",
+    "product_id": "PROD011",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-05-07",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0181",
+    "product_id": "PROD017",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-07-29",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0182",
+    "product_id": "PROD027",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-08-01",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0183",
+    "product_id": "PROD002",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-05-01",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0184",
+    "product_id": "PROD034",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-08-10",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0185",
+    "product_id": "PROD028",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-07-15",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0186",
+    "product_id": "PROD012",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-26",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0187",
+    "product_id": "PROD001",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-10-28",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0188",
+    "product_id": "PROD039",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-04-20",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0189",
+    "product_id": "PROD019",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-02-11",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0190",
+    "product_id": "PROD021",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-04-30",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0191",
+    "product_id": "PROD007",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-07-19",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0192",
+    "product_id": "PROD013",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-04-17",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0193",
+    "product_id": "PROD024",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-03-22",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0194",
+    "product_id": "PROD021",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-07-08",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0195",
+    "product_id": "PROD035",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-06-09",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0196",
+    "product_id": "PROD039",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-11-02",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0197",
+    "product_id": "PROD011",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-07-17",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0198",
+    "product_id": "PROD018",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-10-22",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0199",
+    "product_id": "PROD016",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-09-03",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0200",
+    "product_id": "PROD017",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0201",
+    "product_id": "PROD010",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-08-13",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0202",
+    "product_id": "PROD014",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-07-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0203",
+    "product_id": "PROD012",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-06-11",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0204",
+    "product_id": "PROD036",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-02-11",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0205",
+    "product_id": "PROD029",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-18",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0206",
+    "product_id": "PROD032",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-03-17",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0207",
+    "product_id": "PROD011",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-08",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0208",
+    "product_id": "PROD014",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-12-05",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0209",
+    "product_id": "PROD015",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-12",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0210",
+    "product_id": "PROD027",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-05-25",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0211",
+    "product_id": "PROD003",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-06-21",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0212",
+    "product_id": "PROD016",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-01-12",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0213",
+    "product_id": "PROD039",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-04-02",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0214",
+    "product_id": "PROD030",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-08-02",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0215",
+    "product_id": "PROD032",
+    "total_purchases": 8,
+    "last_purchase_date": "2023-09-21",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0216",
+    "product_id": "PROD006",
+    "total_purchases": 8,
+    "last_purchase_date": "2024-06-27",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0217",
+    "product_id": "PROD035",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-09-28",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0218",
+    "product_id": "PROD001",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-03-01",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0219",
+    "product_id": "PROD005",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-12-07",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0220",
+    "product_id": "PROD021",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-08-06",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0221",
+    "product_id": "PROD005",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-06-03",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0222",
+    "product_id": "PROD025",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-03-29",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0223",
+    "product_id": "PROD020",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-08-16",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0224",
+    "product_id": "PROD022",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-01-10",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0225",
+    "product_id": "PROD039",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-06-29",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0226",
+    "product_id": "PROD038",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-01-20",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0227",
+    "product_id": "PROD002",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-03-28",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0228",
+    "product_id": "PROD017",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-11-21",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0229",
+    "product_id": "PROD039",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-12-17",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0230",
+    "product_id": "PROD028",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-01",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0231",
+    "product_id": "PROD006",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-03-30",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0232",
+    "product_id": "PROD025",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-08-17",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0233",
+    "product_id": "PROD024",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-29",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0234",
+    "product_id": "PROD015",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-08-11",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0235",
+    "product_id": "PROD002",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-09-14",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0236",
+    "product_id": "PROD021",
+    "total_purchases": 9,
+    "last_purchase_date": "2024-05-20",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0237",
+    "product_id": "PROD014",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-02-01",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0238",
+    "product_id": "PROD040",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-09-13",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0239",
+    "product_id": "PROD016",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-07-22",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0240",
+    "product_id": "PROD020",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-01-04",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0241",
+    "product_id": "PROD017",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-02-26",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0242",
+    "product_id": "PROD022",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-12-23",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0243",
+    "product_id": "PROD004",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-02-21",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0244",
+    "product_id": "PROD010",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-05-19",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0245",
+    "product_id": "PROD028",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-06-02",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0246",
+    "product_id": "PROD029",
+    "total_purchases": 8,
+    "last_purchase_date": "2024-04-16",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0247",
+    "product_id": "PROD036",
+    "total_purchases": 8,
+    "last_purchase_date": "2024-09-04",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0248",
+    "product_id": "PROD006",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-17",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0249",
+    "product_id": "PROD034",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-02-19",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0250",
+    "product_id": "PROD039",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-06-20",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0251",
+    "product_id": "PROD016",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-06-21",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0252",
+    "product_id": "PROD016",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-04-30",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0253",
+    "product_id": "PROD036",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-05-06",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0254",
+    "product_id": "PROD018",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-07-26",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0255",
+    "product_id": "PROD014",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-04-04",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0256",
+    "product_id": "PROD039",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-03-13",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0257",
+    "product_id": "PROD008",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-07-24",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0258",
+    "product_id": "PROD004",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-08-20",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0259",
+    "product_id": "PROD007",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-07-08",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0260",
+    "product_id": "PROD037",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-08-03",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0261",
+    "product_id": "PROD014",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-03-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0262",
+    "product_id": "PROD004",
+    "total_purchases": 10,
+    "last_purchase_date": "2023-07-28",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0263",
+    "product_id": "PROD039",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-09-11",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0264",
+    "product_id": "PROD040",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-06-06",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0265",
+    "product_id": "PROD026",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-06-21",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0266",
+    "product_id": "PROD022",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-09-23",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0267",
+    "product_id": "PROD012",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-06-26",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0268",
+    "product_id": "PROD024",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-08-11",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0269",
+    "product_id": "PROD029",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-04-04",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0270",
+    "product_id": "PROD040",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-02-17",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0271",
+    "product_id": "PROD006",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-02-07",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0272",
+    "product_id": "PROD026",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-01-01",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0273",
+    "product_id": "PROD022",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-12-31",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0274",
+    "product_id": "PROD006",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-10-24",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0275",
+    "product_id": "PROD008",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-05-30",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0276",
+    "product_id": "PROD023",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-11-04",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0277",
+    "product_id": "PROD011",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-02-17",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0278",
+    "product_id": "PROD031",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-11-18",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0279",
+    "product_id": "PROD015",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-03-01",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0280",
+    "product_id": "PROD015",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-08-05",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0281",
+    "product_id": "PROD017",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-01-25",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0282",
+    "product_id": "PROD036",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-06-19",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0283",
+    "product_id": "PROD011",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-02",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0284",
+    "product_id": "PROD005",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-06-18",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0285",
+    "product_id": "PROD014",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-12-09",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0286",
+    "product_id": "PROD038",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-29",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0287",
+    "product_id": "PROD030",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-13",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0288",
+    "product_id": "PROD040",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-03-28",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0289",
+    "product_id": "PROD012",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-08-02",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0290",
+    "product_id": "PROD018",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-03-19",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0291",
+    "product_id": "PROD027",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-04-20",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0292",
+    "product_id": "PROD028",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-08-19",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0293",
+    "product_id": "PROD022",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-01-12",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0294",
+    "product_id": "PROD031",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-04-25",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0295",
+    "product_id": "PROD040",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-10-26",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0296",
+    "product_id": "PROD026",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-08-27",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0297",
+    "product_id": "PROD004",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-03-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0298",
+    "product_id": "PROD038",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-09-03",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0299",
+    "product_id": "PROD022",
+    "total_purchases": 9,
+    "last_purchase_date": "2024-02-01",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0300",
+    "product_id": "PROD031",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-09-23",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0301",
+    "product_id": "PROD014",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-04-02",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0302",
+    "product_id": "PROD039",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-12-22",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0303",
+    "product_id": "PROD004",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-05-12",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0304",
+    "product_id": "PROD028",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-01-26",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0305",
+    "product_id": "PROD027",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-05-01",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0306",
+    "product_id": "PROD035",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-08-08",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0307",
+    "product_id": "PROD038",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-11-06",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0308",
+    "product_id": "PROD010",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-01",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0309",
+    "product_id": "PROD020",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-05-16",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0310",
+    "product_id": "PROD029",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-04-20",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0311",
+    "product_id": "PROD014",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-07-03",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0312",
+    "product_id": "PROD008",
+    "total_purchases": 9,
+    "last_purchase_date": "2023-02-25",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0313",
+    "product_id": "PROD017",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-01-28",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0314",
+    "product_id": "PROD015",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-11-27",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0315",
+    "product_id": "PROD024",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-04-23",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0316",
+    "product_id": "PROD018",
+    "total_purchases": 10,
+    "last_purchase_date": "2024-05-18",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0317",
+    "product_id": "PROD029",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-01-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0318",
+    "product_id": "PROD029",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-06-25",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0319",
+    "product_id": "PROD027",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-03-11",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0320",
+    "product_id": "PROD022",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-01-19",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0321",
+    "product_id": "PROD029",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0322",
+    "product_id": "PROD014",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-03-20",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0323",
+    "product_id": "PROD033",
+    "total_purchases": 11,
+    "last_purchase_date": "2023-07-30",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0324",
+    "product_id": "PROD031",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-04-20",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0325",
+    "product_id": "PROD026",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-05-15",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0326",
+    "product_id": "PROD007",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-01-28",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0327",
+    "product_id": "PROD019",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-07-11",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0328",
+    "product_id": "PROD035",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-22",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0329",
+    "product_id": "PROD020",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-08-22",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0330",
+    "product_id": "PROD033",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-12-17",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0331",
+    "product_id": "PROD011",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-07-19",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0332",
+    "product_id": "PROD002",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-02-02",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0333",
+    "product_id": "PROD029",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-06-20",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0334",
+    "product_id": "PROD002",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-03-14",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0335",
+    "product_id": "PROD013",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-13",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0336",
+    "product_id": "PROD003",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-05-18",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0337",
+    "product_id": "PROD004",
+    "total_purchases": 8,
+    "last_purchase_date": "2023-12-28",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0338",
+    "product_id": "PROD003",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-09-12",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0339",
+    "product_id": "PROD034",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-11-20",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0340",
+    "product_id": "PROD014",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-04-27",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0341",
+    "product_id": "PROD007",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-12-31",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0342",
+    "product_id": "PROD021",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-12-25",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0343",
+    "product_id": "PROD039",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-07-30",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0344",
+    "product_id": "PROD011",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-06-24",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0345",
+    "product_id": "PROD029",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-03-27",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0346",
+    "product_id": "PROD013",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-03-01",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0347",
+    "product_id": "PROD013",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-04-21",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0348",
+    "product_id": "PROD038",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-06-23",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0349",
+    "product_id": "PROD007",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-05-12",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0350",
+    "product_id": "PROD016",
+    "total_purchases": 8,
+    "last_purchase_date": "2023-02-04",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0351",
+    "product_id": "PROD013",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-04-14",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0352",
+    "product_id": "PROD006",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-10-14",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0353",
+    "product_id": "PROD037",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-08-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0354",
+    "product_id": "PROD039",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-08-09",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0355",
+    "product_id": "PROD009",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-11-17",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0356",
+    "product_id": "PROD022",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-06-26",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0357",
+    "product_id": "PROD027",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-16",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0358",
+    "product_id": "PROD038",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-12-12",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0359",
+    "product_id": "PROD038",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-01-18",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0360",
+    "product_id": "PROD027",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-08-15",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0361",
+    "product_id": "PROD025",
+    "total_purchases": 0,
+    "last_purchase_date": "2024-07-28",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0362",
+    "product_id": "PROD010",
+    "total_purchases": 0,
+    "last_purchase_date": "2023-09-13",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0363",
+    "product_id": "PROD017",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-04-19",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0364",
+    "product_id": "PROD011",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-05-05",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0365",
+    "product_id": "PROD026",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-05-30",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0366",
+    "product_id": "PROD031",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-08-14",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0367",
+    "product_id": "PROD023",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-05-05",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0368",
+    "product_id": "PROD014",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-01-22",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0369",
+    "product_id": "PROD001",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-05-09",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0370",
+    "product_id": "PROD016",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-02-07",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0371",
+    "product_id": "PROD019",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-03-02",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0372",
+    "product_id": "PROD032",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-02-06",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0373",
+    "product_id": "PROD004",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-10-14",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0374",
+    "product_id": "PROD034",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-01-26",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0375",
+    "product_id": "PROD032",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-01",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0376",
+    "product_id": "PROD020",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-11-05",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0377",
+    "product_id": "PROD004",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-04-15",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0378",
+    "product_id": "PROD026",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-01-15",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0379",
+    "product_id": "PROD007",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-12-15",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0380",
+    "product_id": "PROD025",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-09-15",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0381",
+    "product_id": "PROD010",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-08-08",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0382",
+    "product_id": "PROD019",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-07-04",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0383",
+    "product_id": "PROD032",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-07-02",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0384",
+    "product_id": "PROD035",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-07-02",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0385",
+    "product_id": "PROD030",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-07-22",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0386",
+    "product_id": "PROD004",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-06-08",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0387",
+    "product_id": "PROD016",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-03-03",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0388",
+    "product_id": "PROD013",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-05-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0389",
+    "product_id": "PROD037",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-04-19",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0390",
+    "product_id": "PROD019",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-12-03",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0391",
+    "product_id": "PROD015",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-08-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0392",
+    "product_id": "PROD015",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-08",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0393",
+    "product_id": "PROD001",
+    "total_purchases": 8,
+    "last_purchase_date": "2023-05-29",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0394",
+    "product_id": "PROD009",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-02-28",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0395",
+    "product_id": "PROD030",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-03-31",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0396",
+    "product_id": "PROD018",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-27",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0397",
+    "product_id": "PROD014",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-11-20",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0398",
+    "product_id": "PROD023",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-14",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0399",
+    "product_id": "PROD035",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-16",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0400",
+    "product_id": "PROD004",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-03-07",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0401",
+    "product_id": "PROD032",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-05-08",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0402",
+    "product_id": "PROD039",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-09-06",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0403",
+    "product_id": "PROD013",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-02-15",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0404",
+    "product_id": "PROD012",
+    "total_purchases": 8,
+    "last_purchase_date": "2024-06-14",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0405",
+    "product_id": "PROD037",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-09-27",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0406",
+    "product_id": "PROD012",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-07-20",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0407",
+    "product_id": "PROD016",
+    "total_purchases": 9,
+    "last_purchase_date": "2023-05-11",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0408",
+    "product_id": "PROD032",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-12-12",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0409",
+    "product_id": "PROD025",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-09-01",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0410",
+    "product_id": "PROD028",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-05-01",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0411",
+    "product_id": "PROD025",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-08-06",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0412",
+    "product_id": "PROD017",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-08-23",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0413",
+    "product_id": "PROD039",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-03-22",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0414",
+    "product_id": "PROD014",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-10-24",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0415",
+    "product_id": "PROD029",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-05-21",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0416",
+    "product_id": "PROD001",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-12",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0417",
+    "product_id": "PROD014",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0418",
+    "product_id": "PROD012",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-01-01",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0419",
+    "product_id": "PROD008",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-07-09",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0420",
+    "product_id": "PROD001",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-06-14",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0421",
+    "product_id": "PROD012",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-03-19",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0422",
+    "product_id": "PROD022",
+    "total_purchases": 8,
+    "last_purchase_date": "2024-06-02",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0423",
+    "product_id": "PROD028",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-06-19",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0424",
+    "product_id": "PROD009",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-06-09",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0425",
+    "product_id": "PROD020",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-01-27",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0426",
+    "product_id": "PROD033",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-05-25",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0427",
+    "product_id": "PROD037",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-02-12",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0428",
+    "product_id": "PROD013",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-22",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0429",
+    "product_id": "PROD025",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-08-21",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0430",
+    "product_id": "PROD017",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-08-01",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0431",
+    "product_id": "PROD005",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-08",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0432",
+    "product_id": "PROD009",
+    "total_purchases": 9,
+    "last_purchase_date": "2024-02-27",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0433",
+    "product_id": "PROD035",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-02",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0434",
+    "product_id": "PROD004",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-09-22",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0435",
+    "product_id": "PROD019",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-03-04",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0436",
+    "product_id": "PROD006",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-02-06",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0437",
+    "product_id": "PROD002",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-02-13",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0438",
+    "product_id": "PROD029",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-08-04",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0439",
+    "product_id": "PROD028",
+    "total_purchases": 10,
+    "last_purchase_date": "2023-01-29",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0440",
+    "product_id": "PROD038",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-22",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0441",
+    "product_id": "PROD012",
+    "total_purchases": 0,
+    "last_purchase_date": "2024-05-11",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0442",
+    "product_id": "PROD009",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-02-06",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0443",
+    "product_id": "PROD027",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-01-23",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0444",
+    "product_id": "PROD012",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-03-04",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0445",
+    "product_id": "PROD028",
+    "total_purchases": 8,
+    "last_purchase_date": "2023-10-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0446",
+    "product_id": "PROD013",
+    "total_purchases": 1,
+    "last_purchase_date": "2024-03-15",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0447",
+    "product_id": "PROD016",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-07-22",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0448",
+    "product_id": "PROD012",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-09",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0449",
+    "product_id": "PROD020",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-01-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0450",
+    "product_id": "PROD001",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-08",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0451",
+    "product_id": "PROD015",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-12",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0452",
+    "product_id": "PROD028",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-04-30",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0453",
+    "product_id": "PROD002",
+    "total_purchases": 10,
+    "last_purchase_date": "2023-01-10",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0454",
+    "product_id": "PROD027",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-02-02",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0455",
+    "product_id": "PROD033",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-01-10",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0456",
+    "product_id": "PROD023",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-06-03",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0457",
+    "product_id": "PROD032",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-08-25",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0458",
+    "product_id": "PROD032",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-08-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0459",
+    "product_id": "PROD010",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-06-21",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0460",
+    "product_id": "PROD032",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-09-03",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0461",
+    "product_id": "PROD027",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-11-05",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0462",
+    "product_id": "PROD040",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-07-29",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0463",
+    "product_id": "PROD002",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-09-06",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0464",
+    "product_id": "PROD037",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-09-07",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0465",
+    "product_id": "PROD015",
+    "total_purchases": 9,
+    "last_purchase_date": "2023-08-27",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0466",
+    "product_id": "PROD020",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-18",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0467",
+    "product_id": "PROD031",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-07-06",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0468",
+    "product_id": "PROD009",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-04-10",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0469",
+    "product_id": "PROD032",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-07-25",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0470",
+    "product_id": "PROD028",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-06",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0471",
+    "product_id": "PROD028",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-07-20",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0472",
+    "product_id": "PROD026",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-26",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0473",
+    "product_id": "PROD006",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-07-27",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0474",
+    "product_id": "PROD003",
+    "total_purchases": 9,
+    "last_purchase_date": "2023-05-27",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0475",
+    "product_id": "PROD016",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-06-18",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0476",
+    "product_id": "PROD004",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-02-15",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0477",
+    "product_id": "PROD024",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0478",
+    "product_id": "PROD024",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-19",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0479",
+    "product_id": "PROD023",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-05-17",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0480",
+    "product_id": "PROD010",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-07-08",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0481",
+    "product_id": "PROD001",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-03-11",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0482",
+    "product_id": "PROD017",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-05-26",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0483",
+    "product_id": "PROD023",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-10-23",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0484",
+    "product_id": "PROD018",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-07-23",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0485",
+    "product_id": "PROD010",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-01-15",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0486",
+    "product_id": "PROD021",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-22",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0487",
+    "product_id": "PROD040",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-01-10",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0488",
+    "product_id": "PROD007",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-03-31",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0489",
+    "product_id": "PROD025",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-08-22",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0490",
+    "product_id": "PROD013",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-07-18",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0491",
+    "product_id": "PROD034",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-10-12",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0492",
+    "product_id": "PROD031",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-02-18",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0493",
+    "product_id": "PROD022",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-03-19",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0494",
+    "product_id": "PROD015",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-08-27",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0495",
+    "product_id": "PROD025",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-16",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0496",
+    "product_id": "PROD005",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-08-15",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0497",
+    "product_id": "PROD018",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-01-16",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0498",
+    "product_id": "PROD016",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-03-24",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0499",
+    "product_id": "PROD003",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-01-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0500",
+    "product_id": "PROD036",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-01-21",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0501",
+    "product_id": "PROD033",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-08-23",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0502",
+    "product_id": "PROD016",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-02-26",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0503",
+    "product_id": "PROD025",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-22",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0504",
+    "product_id": "PROD036",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-11-28",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0505",
+    "product_id": "PROD015",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-01-20",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0506",
+    "product_id": "PROD004",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-10-16",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0507",
+    "product_id": "PROD028",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-02-19",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0508",
+    "product_id": "PROD039",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-02-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0509",
+    "product_id": "PROD012",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-05-10",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0510",
+    "product_id": "PROD018",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-05-11",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0511",
+    "product_id": "PROD011",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-12-30",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0512",
+    "product_id": "PROD031",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-04-10",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0513",
+    "product_id": "PROD001",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-06-21",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0514",
+    "product_id": "PROD022",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-09-08",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0515",
+    "product_id": "PROD016",
+    "total_purchases": 0,
+    "last_purchase_date": "2023-01-30",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0516",
+    "product_id": "PROD017",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-03-03",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0517",
+    "product_id": "PROD003",
+    "total_purchases": 8,
+    "last_purchase_date": "2023-12-13",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0518",
+    "product_id": "PROD037",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-04-10",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0519",
+    "product_id": "PROD033",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-03-03",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0520",
+    "product_id": "PROD010",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-30",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0521",
+    "product_id": "PROD018",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-04-07",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0522",
+    "product_id": "PROD009",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-07-30",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0523",
+    "product_id": "PROD003",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-01-27",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0524",
+    "product_id": "PROD001",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-03-25",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0525",
+    "product_id": "PROD021",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-07-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0526",
+    "product_id": "PROD039",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-08",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0527",
+    "product_id": "PROD015",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-01-27",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0528",
+    "product_id": "PROD012",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-08-01",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0529",
+    "product_id": "PROD032",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-08-23",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0530",
+    "product_id": "PROD030",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-08-25",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0531",
+    "product_id": "PROD021",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-07-06",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0532",
+    "product_id": "PROD025",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-02",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0533",
+    "product_id": "PROD039",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-09-16",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0534",
+    "product_id": "PROD017",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-04-19",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0535",
+    "product_id": "PROD012",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-08-06",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0536",
+    "product_id": "PROD015",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-03-26",
+    "satisfaction_level": null,
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0537",
+    "product_id": "PROD005",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-06-05",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0538",
+    "product_id": "PROD010",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-23",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0539",
+    "product_id": "PROD016",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-12-08",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0540",
+    "product_id": "PROD025",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-02-18",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0541",
+    "product_id": "PROD028",
+    "total_purchases": 6,
+    "last_purchase_date": "2024-03-17",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0542",
+    "product_id": "PROD028",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-03-16",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0543",
+    "product_id": "PROD016",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-25",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0544",
+    "product_id": "PROD017",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-03-09",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0545",
+    "product_id": "PROD035",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-04-07",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0546",
+    "product_id": "PROD032",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-08-31",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0547",
+    "product_id": "PROD014",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-06",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0548",
+    "product_id": "PROD005",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-09-07",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0549",
+    "product_id": "PROD031",
+    "total_purchases": 2,
+    "last_purchase_date": "2024-04-07",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0550",
+    "product_id": "PROD028",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-07-01",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0551",
+    "product_id": "PROD018",
+    "total_purchases": 5,
+    "last_purchase_date": "2024-08-12",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0552",
+    "product_id": "PROD035",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-06-05",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0553",
+    "product_id": "PROD022",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-02-05",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0554",
+    "product_id": "PROD033",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-09-24",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0555",
+    "product_id": "PROD033",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-08-10",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0556",
+    "product_id": "PROD030",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-04-24",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0557",
+    "product_id": "PROD020",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-07-11",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0558",
+    "product_id": "PROD001",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-05-27",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0559",
+    "product_id": "PROD018",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-05-08",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0560",
+    "product_id": "PROD023",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-11-05",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0561",
+    "product_id": "PROD036",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-06-14",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0562",
+    "product_id": "PROD036",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-11-09",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0563",
+    "product_id": "PROD030",
+    "total_purchases": 8,
+    "last_purchase_date": "2024-06-02",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0564",
+    "product_id": "PROD011",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-05-11",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0565",
+    "product_id": "PROD004",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-05-25",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0566",
+    "product_id": "PROD005",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-07-24",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0567",
+    "product_id": "PROD017",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-05-18",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0568",
+    "product_id": "PROD012",
+    "total_purchases": 4,
+    "last_purchase_date": "2023-05-30",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0569",
+    "product_id": "PROD024",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-07-30",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0570",
+    "product_id": "PROD039",
+    "total_purchases": 8,
+    "last_purchase_date": "2023-11-02",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0571",
+    "product_id": "PROD017",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-05-28",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0572",
+    "product_id": "PROD014",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-05-11",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0573",
+    "product_id": "PROD019",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-09-21",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0574",
+    "product_id": "PROD031",
+    "total_purchases": 6,
+    "last_purchase_date": "2023-07-17",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0575",
+    "product_id": "PROD013",
+    "total_purchases": 7,
+    "last_purchase_date": "2023-05-19",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0576",
+    "product_id": "PROD019",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-08-05",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0577",
+    "product_id": "PROD007",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-02-26",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0578",
+    "product_id": "PROD006",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-06-07",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0579",
+    "product_id": "PROD021",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-11-14",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0580",
+    "product_id": "PROD010",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-01-19",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0581",
+    "product_id": "PROD008",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-08-20",
+    "satisfaction_level": null,
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0582",
+    "product_id": "PROD005",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-03-10",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0583",
+    "product_id": "PROD016",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-04-03",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0584",
+    "product_id": "PROD036",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-09-03",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0585",
+    "product_id": "PROD019",
+    "total_purchases": 7,
+    "last_purchase_date": "2024-01-21",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0586",
+    "product_id": "PROD004",
+    "total_purchases": 2,
+    "last_purchase_date": "2023-07-04",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0587",
+    "product_id": "PROD001",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-12-30",
+    "satisfaction_level": "High",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0588",
+    "product_id": "PROD039",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-04",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0589",
+    "product_id": "PROD021",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-09-15",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0590",
+    "product_id": "PROD024",
+    "total_purchases": 1,
+    "last_purchase_date": "2023-05-22",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0591",
+    "product_id": "PROD023",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-02-02",
+    "satisfaction_level": "High",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0592",
+    "product_id": "PROD002",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-09-05",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0593",
+    "product_id": "PROD029",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-04-27",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0594",
+    "product_id": "PROD017",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-04-04",
+    "satisfaction_level": "Medium",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0595",
+    "product_id": "PROD040",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-10-07",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0596",
+    "product_id": "PROD009",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-05-08",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0597",
+    "product_id": "PROD039",
+    "total_purchases": 4,
+    "last_purchase_date": "2024-03-18",
+    "satisfaction_level": "Low",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0598",
+    "product_id": "PROD007",
+    "total_purchases": 3,
+    "last_purchase_date": "2023-06-24",
+    "satisfaction_level": "Low",
+    "purchased": 1
+  },
+  {
+    "customer_id": "CUST-0599",
+    "product_id": "PROD023",
+    "total_purchases": 5,
+    "last_purchase_date": "2023-09-18",
+    "satisfaction_level": "Medium",
+    "purchased": 0
+  },
+  {
+    "customer_id": "CUST-0600",
+    "product_id": "PROD003",
+    "total_purchases": 3,
+    "last_purchase_date": "2024-01-21",
+    "satisfaction_level": null,
+    "purchased": 0
+  }
+]

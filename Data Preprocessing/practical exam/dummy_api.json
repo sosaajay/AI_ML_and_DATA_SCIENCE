@@ -1,0 +1,3002 @@
+[
+  {
+    "customer_id": "CUST-0001",
+    "membership_tier": "Gold",
+    "loyalty_points": 1591
+  },
+  {
+    "customer_id": "CUST-0002",
+    "membership_tier": "Silver",
+    "loyalty_points": 4425
+  },
+  {
+    "customer_id": "CUST-0003",
+    "membership_tier": "Gold",
+    "loyalty_points": 4749
+  },
+  {
+    "customer_id": "CUST-0004",
+    "membership_tier": "Silver",
+    "loyalty_points": 4298
+  },
+  {
+    "customer_id": "CUST-0005",
+    "membership_tier": "Silver",
+    "loyalty_points": 1213
+  },
+  {
+    "customer_id": "CUST-0006",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2023
+  },
+  {
+    "customer_id": "CUST-0007",
+    "membership_tier": "Gold",
+    "loyalty_points": 2563
+  },
+  {
+    "customer_id": "CUST-0008",
+    "membership_tier": "Bronze",
+    "loyalty_points": 177
+  },
+  {
+    "customer_id": "CUST-0009",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1919
+  },
+  {
+    "customer_id": "CUST-0010",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2951
+  },
+  {
+    "customer_id": "CUST-0011",
+    "membership_tier": "Silver",
+    "loyalty_points": 1515
+  },
+  {
+    "customer_id": "CUST-0012",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1104
+  },
+  {
+    "customer_id": "CUST-0013",
+    "membership_tier": "Gold",
+    "loyalty_points": 692
+  },
+  {
+    "customer_id": "CUST-0014",
+    "membership_tier": "Gold",
+    "loyalty_points": 633
+  },
+  {
+    "customer_id": "CUST-0015",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4210
+  },
+  {
+    "customer_id": "CUST-0016",
+    "membership_tier": "Silver",
+    "loyalty_points": 2807
+  },
+  {
+    "customer_id": "CUST-0017",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3554
+  },
+  {
+    "customer_id": "CUST-0018",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2379
+  },
+  {
+    "customer_id": "CUST-0019",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1528
+  },
+  {
+    "customer_id": "CUST-0020",
+    "membership_tier": "Gold",
+    "loyalty_points": 3168
+  },
+  {
+    "customer_id": "CUST-0021",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1811
+  },
+  {
+    "customer_id": "CUST-0022",
+    "membership_tier": "Gold",
+    "loyalty_points": 1606
+  },
+  {
+    "customer_id": "CUST-0023",
+    "membership_tier": "Silver",
+    "loyalty_points": 22
+  },
+  {
+    "customer_id": "CUST-0024",
+    "membership_tier": "Gold",
+    "loyalty_points": 1260
+  },
+  {
+    "customer_id": "CUST-0025",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4420
+  },
+  {
+    "customer_id": "CUST-0026",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1805
+  },
+  {
+    "customer_id": "CUST-0027",
+    "membership_tier": "Silver",
+    "loyalty_points": 27
+  },
+  {
+    "customer_id": "CUST-0028",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3741
+  },
+  {
+    "customer_id": "CUST-0029",
+    "membership_tier": "Silver",
+    "loyalty_points": 471
+  },
+  {
+    "customer_id": "CUST-0030",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4479
+  },
+  {
+    "customer_id": "CUST-0031",
+    "membership_tier": "Silver",
+    "loyalty_points": 4629
+  },
+  {
+    "customer_id": "CUST-0032",
+    "membership_tier": "Gold",
+    "loyalty_points": 418
+  },
+  {
+    "customer_id": "CUST-0033",
+    "membership_tier": "Silver",
+    "loyalty_points": 2771
+  },
+  {
+    "customer_id": "CUST-0034",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2242
+  },
+  {
+    "customer_id": "CUST-0035",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1771
+  },
+  {
+    "customer_id": "CUST-0036",
+    "membership_tier": "Silver",
+    "loyalty_points": 4126
+  },
+  {
+    "customer_id": "CUST-0037",
+    "membership_tier": "Silver",
+    "loyalty_points": 3221
+  },
+  {
+    "customer_id": "CUST-0038",
+    "membership_tier": "Silver",
+    "loyalty_points": 4034
+  },
+  {
+    "customer_id": "CUST-0039",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1155
+  },
+  {
+    "customer_id": "CUST-0040",
+    "membership_tier": "Silver",
+    "loyalty_points": 3078
+  },
+  {
+    "customer_id": "CUST-0041",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2311
+  },
+  {
+    "customer_id": "CUST-0042",
+    "membership_tier": "Silver",
+    "loyalty_points": 1266
+  },
+  {
+    "customer_id": "CUST-0043",
+    "membership_tier": "Silver",
+    "loyalty_points": 451
+  },
+  {
+    "customer_id": "CUST-0044",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2553
+  },
+  {
+    "customer_id": "CUST-0045",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1419
+  },
+  {
+    "customer_id": "CUST-0046",
+    "membership_tier": "Silver",
+    "loyalty_points": 1206
+  },
+  {
+    "customer_id": "CUST-0047",
+    "membership_tier": "Silver",
+    "loyalty_points": 969
+  },
+  {
+    "customer_id": "CUST-0048",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2576
+  },
+  {
+    "customer_id": "CUST-0049",
+    "membership_tier": "Silver",
+    "loyalty_points": 4331
+  },
+  {
+    "customer_id": "CUST-0050",
+    "membership_tier": "Silver",
+    "loyalty_points": 51
+  },
+  {
+    "customer_id": "CUST-0051",
+    "membership_tier": "Gold",
+    "loyalty_points": 1403
+  },
+  {
+    "customer_id": "CUST-0052",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3964
+  },
+  {
+    "customer_id": "CUST-0053",
+    "membership_tier": "Silver",
+    "loyalty_points": 4474
+  },
+  {
+    "customer_id": "CUST-0054",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3794
+  },
+  {
+    "customer_id": "CUST-0055",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2921
+  },
+  {
+    "customer_id": "CUST-0056",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4121
+  },
+  {
+    "customer_id": "CUST-0057",
+    "membership_tier": "Gold",
+    "loyalty_points": 3089
+  },
+  {
+    "customer_id": "CUST-0058",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1556
+  },
+  {
+    "customer_id": "CUST-0059",
+    "membership_tier": "Silver",
+    "loyalty_points": 2326
+  },
+  {
+    "customer_id": "CUST-0060",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4202
+  },
+  {
+    "customer_id": "CUST-0061",
+    "membership_tier": "Gold",
+    "loyalty_points": 3512
+  },
+  {
+    "customer_id": "CUST-0062",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2149
+  },
+  {
+    "customer_id": "CUST-0063",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2621
+  },
+  {
+    "customer_id": "CUST-0064",
+    "membership_tier": "Silver",
+    "loyalty_points": 2505
+  },
+  {
+    "customer_id": "CUST-0065",
+    "membership_tier": "Silver",
+    "loyalty_points": 1298
+  },
+  {
+    "customer_id": "CUST-0066",
+    "membership_tier": "Gold",
+    "loyalty_points": 961
+  },
+  {
+    "customer_id": "CUST-0067",
+    "membership_tier": "Silver",
+    "loyalty_points": 4142
+  },
+  {
+    "customer_id": "CUST-0068",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4180
+  },
+  {
+    "customer_id": "CUST-0069",
+    "membership_tier": "Silver",
+    "loyalty_points": 1383
+  },
+  {
+    "customer_id": "CUST-0070",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2825
+  },
+  {
+    "customer_id": "CUST-0071",
+    "membership_tier": "Silver",
+    "loyalty_points": 3061
+  },
+  {
+    "customer_id": "CUST-0072",
+    "membership_tier": "Gold",
+    "loyalty_points": 1203
+  },
+  {
+    "customer_id": "CUST-0073",
+    "membership_tier": "Silver",
+    "loyalty_points": 3544
+  },
+  {
+    "customer_id": "CUST-0074",
+    "membership_tier": "Silver",
+    "loyalty_points": 1426
+  },
+  {
+    "customer_id": "CUST-0075",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4392
+  },
+  {
+    "customer_id": "CUST-0076",
+    "membership_tier": "Silver",
+    "loyalty_points": 1748
+  },
+  {
+    "customer_id": "CUST-0077",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4578
+  },
+  {
+    "customer_id": "CUST-0078",
+    "membership_tier": "Silver",
+    "loyalty_points": 3796
+  },
+  {
+    "customer_id": "CUST-0079",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1846
+  },
+  {
+    "customer_id": "CUST-0080",
+    "membership_tier": "Silver",
+    "loyalty_points": 4784
+  },
+  {
+    "customer_id": "CUST-0081",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1865
+  },
+  {
+    "customer_id": "CUST-0082",
+    "membership_tier": "Bronze",
+    "loyalty_points": 202
+  },
+  {
+    "customer_id": "CUST-0083",
+    "membership_tier": "Silver",
+    "loyalty_points": 1309
+  },
+  {
+    "customer_id": "CUST-0084",
+    "membership_tier": "Silver",
+    "loyalty_points": 3624
+  },
+  {
+    "customer_id": "CUST-0085",
+    "membership_tier": "Silver",
+    "loyalty_points": 4146
+  },
+  {
+    "customer_id": "CUST-0086",
+    "membership_tier": "Silver",
+    "loyalty_points": 4408
+  },
+  {
+    "customer_id": "CUST-0087",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2251
+  },
+  {
+    "customer_id": "CUST-0088",
+    "membership_tier": "Silver",
+    "loyalty_points": 2664
+  },
+  {
+    "customer_id": "CUST-0089",
+    "membership_tier": "Silver",
+    "loyalty_points": 1495
+  },
+  {
+    "customer_id": "CUST-0090",
+    "membership_tier": "Gold",
+    "loyalty_points": 2046
+  },
+  {
+    "customer_id": "CUST-0091",
+    "membership_tier": "Silver",
+    "loyalty_points": 1841
+  },
+  {
+    "customer_id": "CUST-0092",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4743
+  },
+  {
+    "customer_id": "CUST-0093",
+    "membership_tier": "Bronze",
+    "loyalty_points": 538
+  },
+  {
+    "customer_id": "CUST-0094",
+    "membership_tier": "Gold",
+    "loyalty_points": 1248
+  },
+  {
+    "customer_id": "CUST-0095",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3465
+  },
+  {
+    "customer_id": "CUST-0096",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2735
+  },
+  {
+    "customer_id": "CUST-0097",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1240
+  },
+  {
+    "customer_id": "CUST-0098",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3552
+  },
+  {
+    "customer_id": "CUST-0099",
+    "membership_tier": "Silver",
+    "loyalty_points": 2915
+  },
+  {
+    "customer_id": "CUST-0100",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1535
+  },
+  {
+    "customer_id": "CUST-0101",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1025
+  },
+  {
+    "customer_id": "CUST-0102",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4307
+  },
+  {
+    "customer_id": "CUST-0103",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4087
+  },
+  {
+    "customer_id": "CUST-0104",
+    "membership_tier": "Gold",
+    "loyalty_points": 4573
+  },
+  {
+    "customer_id": "CUST-0105",
+    "membership_tier": "Gold",
+    "loyalty_points": 1716
+  },
+  {
+    "customer_id": "CUST-0106",
+    "membership_tier": "Silver",
+    "loyalty_points": 2909
+  },
+  {
+    "customer_id": "CUST-0107",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1689
+  },
+  {
+    "customer_id": "CUST-0108",
+    "membership_tier": "Silver",
+    "loyalty_points": 3353
+  },
+  {
+    "customer_id": "CUST-0109",
+    "membership_tier": "Silver",
+    "loyalty_points": 2216
+  },
+  {
+    "customer_id": "CUST-0110",
+    "membership_tier": "Silver",
+    "loyalty_points": 902
+  },
+  {
+    "customer_id": "CUST-0111",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4459
+  },
+  {
+    "customer_id": "CUST-0112",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2426
+  },
+  {
+    "customer_id": "CUST-0113",
+    "membership_tier": "Silver",
+    "loyalty_points": 1477
+  },
+  {
+    "customer_id": "CUST-0114",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2910
+  },
+  {
+    "customer_id": "CUST-0115",
+    "membership_tier": "Silver",
+    "loyalty_points": 1276
+  },
+  {
+    "customer_id": "CUST-0116",
+    "membership_tier": "Silver",
+    "loyalty_points": 2182
+  },
+  {
+    "customer_id": "CUST-0117",
+    "membership_tier": "Bronze",
+    "loyalty_points": 349
+  },
+  {
+    "customer_id": "CUST-0118",
+    "membership_tier": "Gold",
+    "loyalty_points": 22
+  },
+  {
+    "customer_id": "CUST-0119",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3652
+  },
+  {
+    "customer_id": "CUST-0120",
+    "membership_tier": "Gold",
+    "loyalty_points": 4055
+  },
+  {
+    "customer_id": "CUST-0121",
+    "membership_tier": "Bronze",
+    "loyalty_points": 503
+  },
+  {
+    "customer_id": "CUST-0122",
+    "membership_tier": "Silver",
+    "loyalty_points": 4139
+  },
+  {
+    "customer_id": "CUST-0123",
+    "membership_tier": "Silver",
+    "loyalty_points": 1813
+  },
+  {
+    "customer_id": "CUST-0124",
+    "membership_tier": "Gold",
+    "loyalty_points": 4100
+  },
+  {
+    "customer_id": "CUST-0125",
+    "membership_tier": "Gold",
+    "loyalty_points": 3936
+  },
+  {
+    "customer_id": "CUST-0126",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4732
+  },
+  {
+    "customer_id": "CUST-0127",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1013
+  },
+  {
+    "customer_id": "CUST-0128",
+    "membership_tier": "Silver",
+    "loyalty_points": 4214
+  },
+  {
+    "customer_id": "CUST-0129",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1245
+  },
+  {
+    "customer_id": "CUST-0130",
+    "membership_tier": "Silver",
+    "loyalty_points": 4009
+  },
+  {
+    "customer_id": "CUST-0131",
+    "membership_tier": "Silver",
+    "loyalty_points": 1376
+  },
+  {
+    "customer_id": "CUST-0132",
+    "membership_tier": "Silver",
+    "loyalty_points": 3114
+  },
+  {
+    "customer_id": "CUST-0133",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3374
+  },
+  {
+    "customer_id": "CUST-0134",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3917
+  },
+  {
+    "customer_id": "CUST-0135",
+    "membership_tier": "Gold",
+    "loyalty_points": 4193
+  },
+  {
+    "customer_id": "CUST-0136",
+    "membership_tier": "Silver",
+    "loyalty_points": 1668
+  },
+  {
+    "customer_id": "CUST-0137",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1933
+  },
+  {
+    "customer_id": "CUST-0138",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2268
+  },
+  {
+    "customer_id": "CUST-0139",
+    "membership_tier": "Silver",
+    "loyalty_points": 1358
+  },
+  {
+    "customer_id": "CUST-0140",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4155
+  },
+  {
+    "customer_id": "CUST-0141",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2153
+  },
+  {
+    "customer_id": "CUST-0142",
+    "membership_tier": "Silver",
+    "loyalty_points": 4204
+  },
+  {
+    "customer_id": "CUST-0143",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4886
+  },
+  {
+    "customer_id": "CUST-0144",
+    "membership_tier": "Gold",
+    "loyalty_points": 1969
+  },
+  {
+    "customer_id": "CUST-0145",
+    "membership_tier": "Silver",
+    "loyalty_points": 3586
+  },
+  {
+    "customer_id": "CUST-0146",
+    "membership_tier": "Silver",
+    "loyalty_points": 3987
+  },
+  {
+    "customer_id": "CUST-0147",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3443
+  },
+  {
+    "customer_id": "CUST-0148",
+    "membership_tier": "Bronze",
+    "loyalty_points": 794
+  },
+  {
+    "customer_id": "CUST-0149",
+    "membership_tier": "Silver",
+    "loyalty_points": 633
+  },
+  {
+    "customer_id": "CUST-0150",
+    "membership_tier": "Gold",
+    "loyalty_points": 112
+  },
+  {
+    "customer_id": "CUST-0151",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3001
+  },
+  {
+    "customer_id": "CUST-0152",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4967
+  },
+  {
+    "customer_id": "CUST-0153",
+    "membership_tier": "Silver",
+    "loyalty_points": 2403
+  },
+  {
+    "customer_id": "CUST-0154",
+    "membership_tier": "Silver",
+    "loyalty_points": 536
+  },
+  {
+    "customer_id": "CUST-0155",
+    "membership_tier": "Bronze",
+    "loyalty_points": 777
+  },
+  {
+    "customer_id": "CUST-0156",
+    "membership_tier": "Silver",
+    "loyalty_points": 551
+  },
+  {
+    "customer_id": "CUST-0157",
+    "membership_tier": "Silver",
+    "loyalty_points": 2773
+  },
+  {
+    "customer_id": "CUST-0158",
+    "membership_tier": "Silver",
+    "loyalty_points": 46
+  },
+  {
+    "customer_id": "CUST-0159",
+    "membership_tier": "Bronze",
+    "loyalty_points": 931
+  },
+  {
+    "customer_id": "CUST-0160",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1291
+  },
+  {
+    "customer_id": "CUST-0161",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4330
+  },
+  {
+    "customer_id": "CUST-0162",
+    "membership_tier": "Silver",
+    "loyalty_points": 2361
+  },
+  {
+    "customer_id": "CUST-0163",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4017
+  },
+  {
+    "customer_id": "CUST-0164",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2581
+  },
+  {
+    "customer_id": "CUST-0165",
+    "membership_tier": "Gold",
+    "loyalty_points": 1836
+  },
+  {
+    "customer_id": "CUST-0166",
+    "membership_tier": "Gold",
+    "loyalty_points": 3796
+  },
+  {
+    "customer_id": "CUST-0167",
+    "membership_tier": "Gold",
+    "loyalty_points": 4342
+  },
+  {
+    "customer_id": "CUST-0168",
+    "membership_tier": "Silver",
+    "loyalty_points": 873
+  },
+  {
+    "customer_id": "CUST-0169",
+    "membership_tier": "Bronze",
+    "loyalty_points": 419
+  },
+  {
+    "customer_id": "CUST-0170",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3712
+  },
+  {
+    "customer_id": "CUST-0171",
+    "membership_tier": "Silver",
+    "loyalty_points": 1027
+  },
+  {
+    "customer_id": "CUST-0172",
+    "membership_tier": "Gold",
+    "loyalty_points": 3057
+  },
+  {
+    "customer_id": "CUST-0173",
+    "membership_tier": "Gold",
+    "loyalty_points": 1886
+  },
+  {
+    "customer_id": "CUST-0174",
+    "membership_tier": "Silver",
+    "loyalty_points": 3377
+  },
+  {
+    "customer_id": "CUST-0175",
+    "membership_tier": "Gold",
+    "loyalty_points": 2842
+  },
+  {
+    "customer_id": "CUST-0176",
+    "membership_tier": "Bronze",
+    "loyalty_points": 181
+  },
+  {
+    "customer_id": "CUST-0177",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2032
+  },
+  {
+    "customer_id": "CUST-0178",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3705
+  },
+  {
+    "customer_id": "CUST-0179",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2202
+  },
+  {
+    "customer_id": "CUST-0180",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4927
+  },
+  {
+    "customer_id": "CUST-0181",
+    "membership_tier": "Bronze",
+    "loyalty_points": 612
+  },
+  {
+    "customer_id": "CUST-0182",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3624
+  },
+  {
+    "customer_id": "CUST-0183",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3207
+  },
+  {
+    "customer_id": "CUST-0184",
+    "membership_tier": "Silver",
+    "loyalty_points": 4464
+  },
+  {
+    "customer_id": "CUST-0185",
+    "membership_tier": "Gold",
+    "loyalty_points": 800
+  },
+  {
+    "customer_id": "CUST-0186",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1085
+  },
+  {
+    "customer_id": "CUST-0187",
+    "membership_tier": "Silver",
+    "loyalty_points": 2971
+  },
+  {
+    "customer_id": "CUST-0188",
+    "membership_tier": "Silver",
+    "loyalty_points": 4866
+  },
+  {
+    "customer_id": "CUST-0189",
+    "membership_tier": "Gold",
+    "loyalty_points": 833
+  },
+  {
+    "customer_id": "CUST-0190",
+    "membership_tier": "Silver",
+    "loyalty_points": 3763
+  },
+  {
+    "customer_id": "CUST-0191",
+    "membership_tier": "Silver",
+    "loyalty_points": 2939
+  },
+  {
+    "customer_id": "CUST-0192",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1135
+  },
+  {
+    "customer_id": "CUST-0193",
+    "membership_tier": "Gold",
+    "loyalty_points": 3214
+  },
+  {
+    "customer_id": "CUST-0194",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2208
+  },
+  {
+    "customer_id": "CUST-0195",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4911
+  },
+  {
+    "customer_id": "CUST-0196",
+    "membership_tier": "Silver",
+    "loyalty_points": 251
+  },
+  {
+    "customer_id": "CUST-0197",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2200
+  },
+  {
+    "customer_id": "CUST-0198",
+    "membership_tier": "Gold",
+    "loyalty_points": 3493
+  },
+  {
+    "customer_id": "CUST-0199",
+    "membership_tier": "Gold",
+    "loyalty_points": 4907
+  },
+  {
+    "customer_id": "CUST-0200",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1570
+  },
+  {
+    "customer_id": "CUST-0201",
+    "membership_tier": "Bronze",
+    "loyalty_points": 865
+  },
+  {
+    "customer_id": "CUST-0202",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4653
+  },
+  {
+    "customer_id": "CUST-0203",
+    "membership_tier": "Gold",
+    "loyalty_points": 3699
+  },
+  {
+    "customer_id": "CUST-0204",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1006
+  },
+  {
+    "customer_id": "CUST-0205",
+    "membership_tier": "Bronze",
+    "loyalty_points": 915
+  },
+  {
+    "customer_id": "CUST-0206",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4195
+  },
+  {
+    "customer_id": "CUST-0207",
+    "membership_tier": "Bronze",
+    "loyalty_points": 300
+  },
+  {
+    "customer_id": "CUST-0208",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2711
+  },
+  {
+    "customer_id": "CUST-0209",
+    "membership_tier": "Bronze",
+    "loyalty_points": 584
+  },
+  {
+    "customer_id": "CUST-0210",
+    "membership_tier": "Silver",
+    "loyalty_points": 3670
+  },
+  {
+    "customer_id": "CUST-0211",
+    "membership_tier": "Bronze",
+    "loyalty_points": 937
+  },
+  {
+    "customer_id": "CUST-0212",
+    "membership_tier": "Silver",
+    "loyalty_points": 1945
+  },
+  {
+    "customer_id": "CUST-0213",
+    "membership_tier": "Gold",
+    "loyalty_points": 1555
+  },
+  {
+    "customer_id": "CUST-0214",
+    "membership_tier": "Bronze",
+    "loyalty_points": 858
+  },
+  {
+    "customer_id": "CUST-0215",
+    "membership_tier": "Gold",
+    "loyalty_points": 4573
+  },
+  {
+    "customer_id": "CUST-0216",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1811
+  },
+  {
+    "customer_id": "CUST-0217",
+    "membership_tier": "Silver",
+    "loyalty_points": 1281
+  },
+  {
+    "customer_id": "CUST-0218",
+    "membership_tier": "Silver",
+    "loyalty_points": 3638
+  },
+  {
+    "customer_id": "CUST-0219",
+    "membership_tier": "Gold",
+    "loyalty_points": 4288
+  },
+  {
+    "customer_id": "CUST-0220",
+    "membership_tier": "Gold",
+    "loyalty_points": 2914
+  },
+  {
+    "customer_id": "CUST-0221",
+    "membership_tier": "Silver",
+    "loyalty_points": 4654
+  },
+  {
+    "customer_id": "CUST-0222",
+    "membership_tier": "Silver",
+    "loyalty_points": 4146
+  },
+  {
+    "customer_id": "CUST-0223",
+    "membership_tier": "Gold",
+    "loyalty_points": 4401
+  },
+  {
+    "customer_id": "CUST-0224",
+    "membership_tier": "Silver",
+    "loyalty_points": 3171
+  },
+  {
+    "customer_id": "CUST-0225",
+    "membership_tier": "Gold",
+    "loyalty_points": 3093
+  },
+  {
+    "customer_id": "CUST-0226",
+    "membership_tier": "Gold",
+    "loyalty_points": 455
+  },
+  {
+    "customer_id": "CUST-0227",
+    "membership_tier": "Bronze",
+    "loyalty_points": 642
+  },
+  {
+    "customer_id": "CUST-0228",
+    "membership_tier": "Silver",
+    "loyalty_points": 4900
+  },
+  {
+    "customer_id": "CUST-0229",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2867
+  },
+  {
+    "customer_id": "CUST-0230",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4890
+  },
+  {
+    "customer_id": "CUST-0231",
+    "membership_tier": "Gold",
+    "loyalty_points": 3863
+  },
+  {
+    "customer_id": "CUST-0232",
+    "membership_tier": "Silver",
+    "loyalty_points": 3018
+  },
+  {
+    "customer_id": "CUST-0233",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4081
+  },
+  {
+    "customer_id": "CUST-0234",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3600
+  },
+  {
+    "customer_id": "CUST-0235",
+    "membership_tier": "Bronze",
+    "loyalty_points": 23
+  },
+  {
+    "customer_id": "CUST-0236",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1178
+  },
+  {
+    "customer_id": "CUST-0237",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2818
+  },
+  {
+    "customer_id": "CUST-0238",
+    "membership_tier": "Bronze",
+    "loyalty_points": 778
+  },
+  {
+    "customer_id": "CUST-0239",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2941
+  },
+  {
+    "customer_id": "CUST-0240",
+    "membership_tier": "Silver",
+    "loyalty_points": 4608
+  },
+  {
+    "customer_id": "CUST-0241",
+    "membership_tier": "Bronze",
+    "loyalty_points": 911
+  },
+  {
+    "customer_id": "CUST-0242",
+    "membership_tier": "Silver",
+    "loyalty_points": 1548
+  },
+  {
+    "customer_id": "CUST-0243",
+    "membership_tier": "Silver",
+    "loyalty_points": 4415
+  },
+  {
+    "customer_id": "CUST-0244",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4864
+  },
+  {
+    "customer_id": "CUST-0245",
+    "membership_tier": "Bronze",
+    "loyalty_points": 424
+  },
+  {
+    "customer_id": "CUST-0246",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3095
+  },
+  {
+    "customer_id": "CUST-0247",
+    "membership_tier": "Gold",
+    "loyalty_points": 244
+  },
+  {
+    "customer_id": "CUST-0248",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1552
+  },
+  {
+    "customer_id": "CUST-0249",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1561
+  },
+  {
+    "customer_id": "CUST-0250",
+    "membership_tier": "Gold",
+    "loyalty_points": 4871
+  },
+  {
+    "customer_id": "CUST-0251",
+    "membership_tier": "Silver",
+    "loyalty_points": 349
+  },
+  {
+    "customer_id": "CUST-0252",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4302
+  },
+  {
+    "customer_id": "CUST-0253",
+    "membership_tier": "Gold",
+    "loyalty_points": 3828
+  },
+  {
+    "customer_id": "CUST-0254",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2756
+  },
+  {
+    "customer_id": "CUST-0255",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1303
+  },
+  {
+    "customer_id": "CUST-0256",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4585
+  },
+  {
+    "customer_id": "CUST-0257",
+    "membership_tier": "Silver",
+    "loyalty_points": 1538
+  },
+  {
+    "customer_id": "CUST-0258",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3674
+  },
+  {
+    "customer_id": "CUST-0259",
+    "membership_tier": "Silver",
+    "loyalty_points": 2519
+  },
+  {
+    "customer_id": "CUST-0260",
+    "membership_tier": "Silver",
+    "loyalty_points": 2823
+  },
+  {
+    "customer_id": "CUST-0261",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1395
+  },
+  {
+    "customer_id": "CUST-0262",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2305
+  },
+  {
+    "customer_id": "CUST-0263",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4041
+  },
+  {
+    "customer_id": "CUST-0264",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4584
+  },
+  {
+    "customer_id": "CUST-0265",
+    "membership_tier": "Silver",
+    "loyalty_points": 3848
+  },
+  {
+    "customer_id": "CUST-0266",
+    "membership_tier": "Bronze",
+    "loyalty_points": 270
+  },
+  {
+    "customer_id": "CUST-0267",
+    "membership_tier": "Silver",
+    "loyalty_points": 3508
+  },
+  {
+    "customer_id": "CUST-0268",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2055
+  },
+  {
+    "customer_id": "CUST-0269",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3017
+  },
+  {
+    "customer_id": "CUST-0270",
+    "membership_tier": "Silver",
+    "loyalty_points": 4937
+  },
+  {
+    "customer_id": "CUST-0271",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3379
+  },
+  {
+    "customer_id": "CUST-0272",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1128
+  },
+  {
+    "customer_id": "CUST-0273",
+    "membership_tier": "Silver",
+    "loyalty_points": 3579
+  },
+  {
+    "customer_id": "CUST-0274",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4660
+  },
+  {
+    "customer_id": "CUST-0275",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1720
+  },
+  {
+    "customer_id": "CUST-0276",
+    "membership_tier": "Silver",
+    "loyalty_points": 696
+  },
+  {
+    "customer_id": "CUST-0277",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3307
+  },
+  {
+    "customer_id": "CUST-0278",
+    "membership_tier": "Gold",
+    "loyalty_points": 1774
+  },
+  {
+    "customer_id": "CUST-0279",
+    "membership_tier": "Gold",
+    "loyalty_points": 1060
+  },
+  {
+    "customer_id": "CUST-0280",
+    "membership_tier": "Silver",
+    "loyalty_points": 1636
+  },
+  {
+    "customer_id": "CUST-0281",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4281
+  },
+  {
+    "customer_id": "CUST-0282",
+    "membership_tier": "Bronze",
+    "loyalty_points": 689
+  },
+  {
+    "customer_id": "CUST-0283",
+    "membership_tier": "Silver",
+    "loyalty_points": 445
+  },
+  {
+    "customer_id": "CUST-0284",
+    "membership_tier": "Bronze",
+    "loyalty_points": 176
+  },
+  {
+    "customer_id": "CUST-0285",
+    "membership_tier": "Silver",
+    "loyalty_points": 407
+  },
+  {
+    "customer_id": "CUST-0286",
+    "membership_tier": "Silver",
+    "loyalty_points": 340
+  },
+  {
+    "customer_id": "CUST-0287",
+    "membership_tier": "Gold",
+    "loyalty_points": 958
+  },
+  {
+    "customer_id": "CUST-0288",
+    "membership_tier": "Silver",
+    "loyalty_points": 987
+  },
+  {
+    "customer_id": "CUST-0289",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4246
+  },
+  {
+    "customer_id": "CUST-0290",
+    "membership_tier": "Gold",
+    "loyalty_points": 2531
+  },
+  {
+    "customer_id": "CUST-0291",
+    "membership_tier": "Silver",
+    "loyalty_points": 3310
+  },
+  {
+    "customer_id": "CUST-0292",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4844
+  },
+  {
+    "customer_id": "CUST-0293",
+    "membership_tier": "Silver",
+    "loyalty_points": 1417
+  },
+  {
+    "customer_id": "CUST-0294",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4703
+  },
+  {
+    "customer_id": "CUST-0295",
+    "membership_tier": "Silver",
+    "loyalty_points": 2664
+  },
+  {
+    "customer_id": "CUST-0296",
+    "membership_tier": "Silver",
+    "loyalty_points": 2069
+  },
+  {
+    "customer_id": "CUST-0297",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1892
+  },
+  {
+    "customer_id": "CUST-0298",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2458
+  },
+  {
+    "customer_id": "CUST-0299",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1584
+  },
+  {
+    "customer_id": "CUST-0300",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4245
+  },
+  {
+    "customer_id": "CUST-0301",
+    "membership_tier": "Silver",
+    "loyalty_points": 3604
+  },
+  {
+    "customer_id": "CUST-0302",
+    "membership_tier": "Bronze",
+    "loyalty_points": 481
+  },
+  {
+    "customer_id": "CUST-0303",
+    "membership_tier": "Bronze",
+    "loyalty_points": 548
+  },
+  {
+    "customer_id": "CUST-0304",
+    "membership_tier": "Gold",
+    "loyalty_points": 399
+  },
+  {
+    "customer_id": "CUST-0305",
+    "membership_tier": "Gold",
+    "loyalty_points": 2971
+  },
+  {
+    "customer_id": "CUST-0306",
+    "membership_tier": "Bronze",
+    "loyalty_points": 676
+  },
+  {
+    "customer_id": "CUST-0307",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4077
+  },
+  {
+    "customer_id": "CUST-0308",
+    "membership_tier": "Silver",
+    "loyalty_points": 3060
+  },
+  {
+    "customer_id": "CUST-0309",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1139
+  },
+  {
+    "customer_id": "CUST-0310",
+    "membership_tier": "Silver",
+    "loyalty_points": 904
+  },
+  {
+    "customer_id": "CUST-0311",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3417
+  },
+  {
+    "customer_id": "CUST-0312",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3362
+  },
+  {
+    "customer_id": "CUST-0313",
+    "membership_tier": "Silver",
+    "loyalty_points": 636
+  },
+  {
+    "customer_id": "CUST-0314",
+    "membership_tier": "Silver",
+    "loyalty_points": 1950
+  },
+  {
+    "customer_id": "CUST-0315",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2340
+  },
+  {
+    "customer_id": "CUST-0316",
+    "membership_tier": "Silver",
+    "loyalty_points": 1492
+  },
+  {
+    "customer_id": "CUST-0317",
+    "membership_tier": "Silver",
+    "loyalty_points": 319
+  },
+  {
+    "customer_id": "CUST-0318",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2081
+  },
+  {
+    "customer_id": "CUST-0319",
+    "membership_tier": "Silver",
+    "loyalty_points": 4797
+  },
+  {
+    "customer_id": "CUST-0320",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2953
+  },
+  {
+    "customer_id": "CUST-0321",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2536
+  },
+  {
+    "customer_id": "CUST-0322",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2733
+  },
+  {
+    "customer_id": "CUST-0323",
+    "membership_tier": "Silver",
+    "loyalty_points": 1086
+  },
+  {
+    "customer_id": "CUST-0324",
+    "membership_tier": "Gold",
+    "loyalty_points": 4980
+  },
+  {
+    "customer_id": "CUST-0325",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4289
+  },
+  {
+    "customer_id": "CUST-0326",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1890
+  },
+  {
+    "customer_id": "CUST-0327",
+    "membership_tier": "Silver",
+    "loyalty_points": 3826
+  },
+  {
+    "customer_id": "CUST-0328",
+    "membership_tier": "Gold",
+    "loyalty_points": 1793
+  },
+  {
+    "customer_id": "CUST-0329",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4255
+  },
+  {
+    "customer_id": "CUST-0330",
+    "membership_tier": "Gold",
+    "loyalty_points": 3116
+  },
+  {
+    "customer_id": "CUST-0331",
+    "membership_tier": "Gold",
+    "loyalty_points": 3404
+  },
+  {
+    "customer_id": "CUST-0332",
+    "membership_tier": "Silver",
+    "loyalty_points": 3010
+  },
+  {
+    "customer_id": "CUST-0333",
+    "membership_tier": "Silver",
+    "loyalty_points": 1159
+  },
+  {
+    "customer_id": "CUST-0334",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3463
+  },
+  {
+    "customer_id": "CUST-0335",
+    "membership_tier": "Silver",
+    "loyalty_points": 3091
+  },
+  {
+    "customer_id": "CUST-0336",
+    "membership_tier": "Bronze",
+    "loyalty_points": 167
+  },
+  {
+    "customer_id": "CUST-0337",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2668
+  },
+  {
+    "customer_id": "CUST-0338",
+    "membership_tier": "Silver",
+    "loyalty_points": 1824
+  },
+  {
+    "customer_id": "CUST-0339",
+    "membership_tier": "Gold",
+    "loyalty_points": 4538
+  },
+  {
+    "customer_id": "CUST-0340",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3897
+  },
+  {
+    "customer_id": "CUST-0341",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3658
+  },
+  {
+    "customer_id": "CUST-0342",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3167
+  },
+  {
+    "customer_id": "CUST-0343",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3975
+  },
+  {
+    "customer_id": "CUST-0344",
+    "membership_tier": "Silver",
+    "loyalty_points": 1528
+  },
+  {
+    "customer_id": "CUST-0345",
+    "membership_tier": "Gold",
+    "loyalty_points": 1454
+  },
+  {
+    "customer_id": "CUST-0346",
+    "membership_tier": "Silver",
+    "loyalty_points": 1943
+  },
+  {
+    "customer_id": "CUST-0347",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4839
+  },
+  {
+    "customer_id": "CUST-0348",
+    "membership_tier": "Silver",
+    "loyalty_points": 3810
+  },
+  {
+    "customer_id": "CUST-0349",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2322
+  },
+  {
+    "customer_id": "CUST-0350",
+    "membership_tier": "Bronze",
+    "loyalty_points": 747
+  },
+  {
+    "customer_id": "CUST-0351",
+    "membership_tier": "Silver",
+    "loyalty_points": 435
+  },
+  {
+    "customer_id": "CUST-0352",
+    "membership_tier": "Bronze",
+    "loyalty_points": 833
+  },
+  {
+    "customer_id": "CUST-0353",
+    "membership_tier": "Bronze",
+    "loyalty_points": 646
+  },
+  {
+    "customer_id": "CUST-0354",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2732
+  },
+  {
+    "customer_id": "CUST-0355",
+    "membership_tier": "Bronze",
+    "loyalty_points": 239
+  },
+  {
+    "customer_id": "CUST-0356",
+    "membership_tier": "Silver",
+    "loyalty_points": 332
+  },
+  {
+    "customer_id": "CUST-0357",
+    "membership_tier": "Gold",
+    "loyalty_points": 2768
+  },
+  {
+    "customer_id": "CUST-0358",
+    "membership_tier": "Bronze",
+    "loyalty_points": 402
+  },
+  {
+    "customer_id": "CUST-0359",
+    "membership_tier": "Silver",
+    "loyalty_points": 4570
+  },
+  {
+    "customer_id": "CUST-0360",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3033
+  },
+  {
+    "customer_id": "CUST-0361",
+    "membership_tier": "Silver",
+    "loyalty_points": 1732
+  },
+  {
+    "customer_id": "CUST-0362",
+    "membership_tier": "Gold",
+    "loyalty_points": 1196
+  },
+  {
+    "customer_id": "CUST-0363",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2785
+  },
+  {
+    "customer_id": "CUST-0364",
+    "membership_tier": "Silver",
+    "loyalty_points": 4269
+  },
+  {
+    "customer_id": "CUST-0365",
+    "membership_tier": "Silver",
+    "loyalty_points": 896
+  },
+  {
+    "customer_id": "CUST-0366",
+    "membership_tier": "Silver",
+    "loyalty_points": 4964
+  },
+  {
+    "customer_id": "CUST-0367",
+    "membership_tier": "Gold",
+    "loyalty_points": 118
+  },
+  {
+    "customer_id": "CUST-0368",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3243
+  },
+  {
+    "customer_id": "CUST-0369",
+    "membership_tier": "Silver",
+    "loyalty_points": 2506
+  },
+  {
+    "customer_id": "CUST-0370",
+    "membership_tier": "Silver",
+    "loyalty_points": 4814
+  },
+  {
+    "customer_id": "CUST-0371",
+    "membership_tier": "Bronze",
+    "loyalty_points": 304
+  },
+  {
+    "customer_id": "CUST-0372",
+    "membership_tier": "Silver",
+    "loyalty_points": 3192
+  },
+  {
+    "customer_id": "CUST-0373",
+    "membership_tier": "Silver",
+    "loyalty_points": 3757
+  },
+  {
+    "customer_id": "CUST-0374",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2107
+  },
+  {
+    "customer_id": "CUST-0375",
+    "membership_tier": "Silver",
+    "loyalty_points": 2948
+  },
+  {
+    "customer_id": "CUST-0376",
+    "membership_tier": "Gold",
+    "loyalty_points": 3741
+  },
+  {
+    "customer_id": "CUST-0377",
+    "membership_tier": "Silver",
+    "loyalty_points": 386
+  },
+  {
+    "customer_id": "CUST-0378",
+    "membership_tier": "Silver",
+    "loyalty_points": 4196
+  },
+  {
+    "customer_id": "CUST-0379",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3385
+  },
+  {
+    "customer_id": "CUST-0380",
+    "membership_tier": "Silver",
+    "loyalty_points": 2178
+  },
+  {
+    "customer_id": "CUST-0381",
+    "membership_tier": "Gold",
+    "loyalty_points": 3650
+  },
+  {
+    "customer_id": "CUST-0382",
+    "membership_tier": "Bronze",
+    "loyalty_points": 527
+  },
+  {
+    "customer_id": "CUST-0383",
+    "membership_tier": "Bronze",
+    "loyalty_points": 847
+  },
+  {
+    "customer_id": "CUST-0384",
+    "membership_tier": "Silver",
+    "loyalty_points": 2213
+  },
+  {
+    "customer_id": "CUST-0385",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4643
+  },
+  {
+    "customer_id": "CUST-0386",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2485
+  },
+  {
+    "customer_id": "CUST-0387",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1857
+  },
+  {
+    "customer_id": "CUST-0388",
+    "membership_tier": "Silver",
+    "loyalty_points": 369
+  },
+  {
+    "customer_id": "CUST-0389",
+    "membership_tier": "Silver",
+    "loyalty_points": 1961
+  },
+  {
+    "customer_id": "CUST-0390",
+    "membership_tier": "Silver",
+    "loyalty_points": 2593
+  },
+  {
+    "customer_id": "CUST-0391",
+    "membership_tier": "Silver",
+    "loyalty_points": 3457
+  },
+  {
+    "customer_id": "CUST-0392",
+    "membership_tier": "Silver",
+    "loyalty_points": 3290
+  },
+  {
+    "customer_id": "CUST-0393",
+    "membership_tier": "Gold",
+    "loyalty_points": 2907
+  },
+  {
+    "customer_id": "CUST-0394",
+    "membership_tier": "Silver",
+    "loyalty_points": 4110
+  },
+  {
+    "customer_id": "CUST-0395",
+    "membership_tier": "Gold",
+    "loyalty_points": 4622
+  },
+  {
+    "customer_id": "CUST-0396",
+    "membership_tier": "Silver",
+    "loyalty_points": 4078
+  },
+  {
+    "customer_id": "CUST-0397",
+    "membership_tier": "Silver",
+    "loyalty_points": 2319
+  },
+  {
+    "customer_id": "CUST-0398",
+    "membership_tier": "Silver",
+    "loyalty_points": 916
+  },
+  {
+    "customer_id": "CUST-0399",
+    "membership_tier": "Gold",
+    "loyalty_points": 1870
+  },
+  {
+    "customer_id": "CUST-0400",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2811
+  },
+  {
+    "customer_id": "CUST-0401",
+    "membership_tier": "Bronze",
+    "loyalty_points": 593
+  },
+  {
+    "customer_id": "CUST-0402",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1545
+  },
+  {
+    "customer_id": "CUST-0403",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1444
+  },
+  {
+    "customer_id": "CUST-0404",
+    "membership_tier": "Gold",
+    "loyalty_points": 2698
+  },
+  {
+    "customer_id": "CUST-0405",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1663
+  },
+  {
+    "customer_id": "CUST-0406",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2133
+  },
+  {
+    "customer_id": "CUST-0407",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1565
+  },
+  {
+    "customer_id": "CUST-0408",
+    "membership_tier": "Silver",
+    "loyalty_points": 1947
+  },
+  {
+    "customer_id": "CUST-0409",
+    "membership_tier": "Silver",
+    "loyalty_points": 4437
+  },
+  {
+    "customer_id": "CUST-0410",
+    "membership_tier": "Silver",
+    "loyalty_points": 3299
+  },
+  {
+    "customer_id": "CUST-0411",
+    "membership_tier": "Silver",
+    "loyalty_points": 956
+  },
+  {
+    "customer_id": "CUST-0412",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2353
+  },
+  {
+    "customer_id": "CUST-0413",
+    "membership_tier": "Silver",
+    "loyalty_points": 197
+  },
+  {
+    "customer_id": "CUST-0414",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3661
+  },
+  {
+    "customer_id": "CUST-0415",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2260
+  },
+  {
+    "customer_id": "CUST-0416",
+    "membership_tier": "Bronze",
+    "loyalty_points": 380
+  },
+  {
+    "customer_id": "CUST-0417",
+    "membership_tier": "Silver",
+    "loyalty_points": 1522
+  },
+  {
+    "customer_id": "CUST-0418",
+    "membership_tier": "Silver",
+    "loyalty_points": 610
+  },
+  {
+    "customer_id": "CUST-0419",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3780
+  },
+  {
+    "customer_id": "CUST-0420",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4751
+  },
+  {
+    "customer_id": "CUST-0421",
+    "membership_tier": "Silver",
+    "loyalty_points": 166
+  },
+  {
+    "customer_id": "CUST-0422",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1584
+  },
+  {
+    "customer_id": "CUST-0423",
+    "membership_tier": "Gold",
+    "loyalty_points": 1866
+  },
+  {
+    "customer_id": "CUST-0424",
+    "membership_tier": "Bronze",
+    "loyalty_points": 822
+  },
+  {
+    "customer_id": "CUST-0425",
+    "membership_tier": "Silver",
+    "loyalty_points": 4396
+  },
+  {
+    "customer_id": "CUST-0426",
+    "membership_tier": "Silver",
+    "loyalty_points": 3871
+  },
+  {
+    "customer_id": "CUST-0427",
+    "membership_tier": "Bronze",
+    "loyalty_points": 628
+  },
+  {
+    "customer_id": "CUST-0428",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4430
+  },
+  {
+    "customer_id": "CUST-0429",
+    "membership_tier": "Silver",
+    "loyalty_points": 1559
+  },
+  {
+    "customer_id": "CUST-0430",
+    "membership_tier": "Bronze",
+    "loyalty_points": 612
+  },
+  {
+    "customer_id": "CUST-0431",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4684
+  },
+  {
+    "customer_id": "CUST-0432",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1704
+  },
+  {
+    "customer_id": "CUST-0433",
+    "membership_tier": "Gold",
+    "loyalty_points": 2628
+  },
+  {
+    "customer_id": "CUST-0434",
+    "membership_tier": "Silver",
+    "loyalty_points": 195
+  },
+  {
+    "customer_id": "CUST-0435",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2344
+  },
+  {
+    "customer_id": "CUST-0436",
+    "membership_tier": "Silver",
+    "loyalty_points": 1957
+  },
+  {
+    "customer_id": "CUST-0437",
+    "membership_tier": "Silver",
+    "loyalty_points": 721
+  },
+  {
+    "customer_id": "CUST-0438",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2394
+  },
+  {
+    "customer_id": "CUST-0439",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4717
+  },
+  {
+    "customer_id": "CUST-0440",
+    "membership_tier": "Silver",
+    "loyalty_points": 3866
+  },
+  {
+    "customer_id": "CUST-0441",
+    "membership_tier": "Silver",
+    "loyalty_points": 556
+  },
+  {
+    "customer_id": "CUST-0442",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2198
+  },
+  {
+    "customer_id": "CUST-0443",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3007
+  },
+  {
+    "customer_id": "CUST-0444",
+    "membership_tier": "Bronze",
+    "loyalty_points": 839
+  },
+  {
+    "customer_id": "CUST-0445",
+    "membership_tier": "Silver",
+    "loyalty_points": 1934
+  },
+  {
+    "customer_id": "CUST-0446",
+    "membership_tier": "Silver",
+    "loyalty_points": 4003
+  },
+  {
+    "customer_id": "CUST-0447",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1365
+  },
+  {
+    "customer_id": "CUST-0448",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1733
+  },
+  {
+    "customer_id": "CUST-0449",
+    "membership_tier": "Silver",
+    "loyalty_points": 1439
+  },
+  {
+    "customer_id": "CUST-0450",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4383
+  },
+  {
+    "customer_id": "CUST-0451",
+    "membership_tier": "Silver",
+    "loyalty_points": 2605
+  },
+  {
+    "customer_id": "CUST-0452",
+    "membership_tier": "Bronze",
+    "loyalty_points": 915
+  },
+  {
+    "customer_id": "CUST-0453",
+    "membership_tier": "Silver",
+    "loyalty_points": 4592
+  },
+  {
+    "customer_id": "CUST-0454",
+    "membership_tier": "Silver",
+    "loyalty_points": 3974
+  },
+  {
+    "customer_id": "CUST-0455",
+    "membership_tier": "Gold",
+    "loyalty_points": 2183
+  },
+  {
+    "customer_id": "CUST-0456",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3146
+  },
+  {
+    "customer_id": "CUST-0457",
+    "membership_tier": "Gold",
+    "loyalty_points": 1416
+  },
+  {
+    "customer_id": "CUST-0458",
+    "membership_tier": "Silver",
+    "loyalty_points": 1717
+  },
+  {
+    "customer_id": "CUST-0459",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2786
+  },
+  {
+    "customer_id": "CUST-0460",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4441
+  },
+  {
+    "customer_id": "CUST-0461",
+    "membership_tier": "Silver",
+    "loyalty_points": 1810
+  },
+  {
+    "customer_id": "CUST-0462",
+    "membership_tier": "Gold",
+    "loyalty_points": 14
+  },
+  {
+    "customer_id": "CUST-0463",
+    "membership_tier": "Silver",
+    "loyalty_points": 903
+  },
+  {
+    "customer_id": "CUST-0464",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3841
+  },
+  {
+    "customer_id": "CUST-0465",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2969
+  },
+  {
+    "customer_id": "CUST-0466",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4701
+  },
+  {
+    "customer_id": "CUST-0467",
+    "membership_tier": "Gold",
+    "loyalty_points": 2629
+  },
+  {
+    "customer_id": "CUST-0468",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1292
+  },
+  {
+    "customer_id": "CUST-0469",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3135
+  },
+  {
+    "customer_id": "CUST-0470",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3624
+  },
+  {
+    "customer_id": "CUST-0471",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2307
+  },
+  {
+    "customer_id": "CUST-0472",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3165
+  },
+  {
+    "customer_id": "CUST-0473",
+    "membership_tier": "Silver",
+    "loyalty_points": 1316
+  },
+  {
+    "customer_id": "CUST-0474",
+    "membership_tier": "Gold",
+    "loyalty_points": 4820
+  },
+  {
+    "customer_id": "CUST-0475",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3532
+  },
+  {
+    "customer_id": "CUST-0476",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3141
+  },
+  {
+    "customer_id": "CUST-0477",
+    "membership_tier": "Gold",
+    "loyalty_points": 1505
+  },
+  {
+    "customer_id": "CUST-0478",
+    "membership_tier": "Silver",
+    "loyalty_points": 4190
+  },
+  {
+    "customer_id": "CUST-0479",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4245
+  },
+  {
+    "customer_id": "CUST-0480",
+    "membership_tier": "Gold",
+    "loyalty_points": 3655
+  },
+  {
+    "customer_id": "CUST-0481",
+    "membership_tier": "Gold",
+    "loyalty_points": 201
+  },
+  {
+    "customer_id": "CUST-0482",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4064
+  },
+  {
+    "customer_id": "CUST-0483",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1628
+  },
+  {
+    "customer_id": "CUST-0484",
+    "membership_tier": "Silver",
+    "loyalty_points": 3534
+  },
+  {
+    "customer_id": "CUST-0485",
+    "membership_tier": "Gold",
+    "loyalty_points": 2004
+  },
+  {
+    "customer_id": "CUST-0486",
+    "membership_tier": "Silver",
+    "loyalty_points": 2044
+  },
+  {
+    "customer_id": "CUST-0487",
+    "membership_tier": "Silver",
+    "loyalty_points": 2585
+  },
+  {
+    "customer_id": "CUST-0488",
+    "membership_tier": "Bronze",
+    "loyalty_points": 587
+  },
+  {
+    "customer_id": "CUST-0489",
+    "membership_tier": "Silver",
+    "loyalty_points": 3810
+  },
+  {
+    "customer_id": "CUST-0490",
+    "membership_tier": "Silver",
+    "loyalty_points": 3372
+  },
+  {
+    "customer_id": "CUST-0491",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2442
+  },
+  {
+    "customer_id": "CUST-0492",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4908
+  },
+  {
+    "customer_id": "CUST-0493",
+    "membership_tier": "Gold",
+    "loyalty_points": 800
+  },
+  {
+    "customer_id": "CUST-0494",
+    "membership_tier": "Silver",
+    "loyalty_points": 1482
+  },
+  {
+    "customer_id": "CUST-0495",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4422
+  },
+  {
+    "customer_id": "CUST-0496",
+    "membership_tier": "Silver",
+    "loyalty_points": 2297
+  },
+  {
+    "customer_id": "CUST-0497",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3887
+  },
+  {
+    "customer_id": "CUST-0498",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2191
+  },
+  {
+    "customer_id": "CUST-0499",
+    "membership_tier": "Silver",
+    "loyalty_points": 3976
+  },
+  {
+    "customer_id": "CUST-0500",
+    "membership_tier": "Silver",
+    "loyalty_points": 4946
+  },
+  {
+    "customer_id": "CUST-0501",
+    "membership_tier": "Gold",
+    "loyalty_points": 892
+  },
+  {
+    "customer_id": "CUST-0502",
+    "membership_tier": "Silver",
+    "loyalty_points": 2467
+  },
+  {
+    "customer_id": "CUST-0503",
+    "membership_tier": "Silver",
+    "loyalty_points": 4580
+  },
+  {
+    "customer_id": "CUST-0504",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2860
+  },
+  {
+    "customer_id": "CUST-0505",
+    "membership_tier": "Silver",
+    "loyalty_points": 3997
+  },
+  {
+    "customer_id": "CUST-0506",
+    "membership_tier": "Gold",
+    "loyalty_points": 1274
+  },
+  {
+    "customer_id": "CUST-0507",
+    "membership_tier": "Gold",
+    "loyalty_points": 2215
+  },
+  {
+    "customer_id": "CUST-0508",
+    "membership_tier": "Silver",
+    "loyalty_points": 3704
+  },
+  {
+    "customer_id": "CUST-0509",
+    "membership_tier": "Gold",
+    "loyalty_points": 3436
+  },
+  {
+    "customer_id": "CUST-0510",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2643
+  },
+  {
+    "customer_id": "CUST-0511",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1531
+  },
+  {
+    "customer_id": "CUST-0512",
+    "membership_tier": "Silver",
+    "loyalty_points": 3143
+  },
+  {
+    "customer_id": "CUST-0513",
+    "membership_tier": "Silver",
+    "loyalty_points": 5
+  },
+  {
+    "customer_id": "CUST-0514",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1528
+  },
+  {
+    "customer_id": "CUST-0515",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2285
+  },
+  {
+    "customer_id": "CUST-0516",
+    "membership_tier": "Silver",
+    "loyalty_points": 4567
+  },
+  {
+    "customer_id": "CUST-0517",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4477
+  },
+  {
+    "customer_id": "CUST-0518",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3132
+  },
+  {
+    "customer_id": "CUST-0519",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4623
+  },
+  {
+    "customer_id": "CUST-0520",
+    "membership_tier": "Bronze",
+    "loyalty_points": 622
+  },
+  {
+    "customer_id": "CUST-0521",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3357
+  },
+  {
+    "customer_id": "CUST-0522",
+    "membership_tier": "Silver",
+    "loyalty_points": 48
+  },
+  {
+    "customer_id": "CUST-0523",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3677
+  },
+  {
+    "customer_id": "CUST-0524",
+    "membership_tier": "Bronze",
+    "loyalty_points": 982
+  },
+  {
+    "customer_id": "CUST-0525",
+    "membership_tier": "Gold",
+    "loyalty_points": 502
+  },
+  {
+    "customer_id": "CUST-0526",
+    "membership_tier": "Bronze",
+    "loyalty_points": 782
+  },
+  {
+    "customer_id": "CUST-0527",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3995
+  },
+  {
+    "customer_id": "CUST-0528",
+    "membership_tier": "Bronze",
+    "loyalty_points": 718
+  },
+  {
+    "customer_id": "CUST-0529",
+    "membership_tier": "Gold",
+    "loyalty_points": 4230
+  },
+  {
+    "customer_id": "CUST-0530",
+    "membership_tier": "Gold",
+    "loyalty_points": 514
+  },
+  {
+    "customer_id": "CUST-0531",
+    "membership_tier": "Bronze",
+    "loyalty_points": 704
+  },
+  {
+    "customer_id": "CUST-0532",
+    "membership_tier": "Bronze",
+    "loyalty_points": 678
+  },
+  {
+    "customer_id": "CUST-0533",
+    "membership_tier": "Silver",
+    "loyalty_points": 3780
+  },
+  {
+    "customer_id": "CUST-0534",
+    "membership_tier": "Silver",
+    "loyalty_points": 3696
+  },
+  {
+    "customer_id": "CUST-0535",
+    "membership_tier": "Gold",
+    "loyalty_points": 3866
+  },
+  {
+    "customer_id": "CUST-0536",
+    "membership_tier": "Silver",
+    "loyalty_points": 2969
+  },
+  {
+    "customer_id": "CUST-0537",
+    "membership_tier": "Silver",
+    "loyalty_points": 1599
+  },
+  {
+    "customer_id": "CUST-0538",
+    "membership_tier": "Silver",
+    "loyalty_points": 903
+  },
+  {
+    "customer_id": "CUST-0539",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3085
+  },
+  {
+    "customer_id": "CUST-0540",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4854
+  },
+  {
+    "customer_id": "CUST-0541",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4769
+  },
+  {
+    "customer_id": "CUST-0542",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3799
+  },
+  {
+    "customer_id": "CUST-0543",
+    "membership_tier": "Gold",
+    "loyalty_points": 3753
+  },
+  {
+    "customer_id": "CUST-0544",
+    "membership_tier": "Gold",
+    "loyalty_points": 4239
+  },
+  {
+    "customer_id": "CUST-0545",
+    "membership_tier": "Silver",
+    "loyalty_points": 4702
+  },
+  {
+    "customer_id": "CUST-0546",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4217
+  },
+  {
+    "customer_id": "CUST-0547",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3692
+  },
+  {
+    "customer_id": "CUST-0548",
+    "membership_tier": "Gold",
+    "loyalty_points": 4673
+  },
+  {
+    "customer_id": "CUST-0549",
+    "membership_tier": "Gold",
+    "loyalty_points": 2929
+  },
+  {
+    "customer_id": "CUST-0550",
+    "membership_tier": "Silver",
+    "loyalty_points": 4766
+  },
+  {
+    "customer_id": "CUST-0551",
+    "membership_tier": "Silver",
+    "loyalty_points": 2140
+  },
+  {
+    "customer_id": "CUST-0552",
+    "membership_tier": "Silver",
+    "loyalty_points": 4191
+  },
+  {
+    "customer_id": "CUST-0553",
+    "membership_tier": "Silver",
+    "loyalty_points": 1760
+  },
+  {
+    "customer_id": "CUST-0554",
+    "membership_tier": "Gold",
+    "loyalty_points": 3382
+  },
+  {
+    "customer_id": "CUST-0555",
+    "membership_tier": "Bronze",
+    "loyalty_points": 303
+  },
+  {
+    "customer_id": "CUST-0556",
+    "membership_tier": "Bronze",
+    "loyalty_points": 259
+  },
+  {
+    "customer_id": "CUST-0557",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1135
+  },
+  {
+    "customer_id": "CUST-0558",
+    "membership_tier": "Silver",
+    "loyalty_points": 1583
+  },
+  {
+    "customer_id": "CUST-0559",
+    "membership_tier": "Bronze",
+    "loyalty_points": 887
+  },
+  {
+    "customer_id": "CUST-0560",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2691
+  },
+  {
+    "customer_id": "CUST-0561",
+    "membership_tier": "Gold",
+    "loyalty_points": 2178
+  },
+  {
+    "customer_id": "CUST-0562",
+    "membership_tier": "Gold",
+    "loyalty_points": 690
+  },
+  {
+    "customer_id": "CUST-0563",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1453
+  },
+  {
+    "customer_id": "CUST-0564",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1826
+  },
+  {
+    "customer_id": "CUST-0565",
+    "membership_tier": "Gold",
+    "loyalty_points": 384
+  },
+  {
+    "customer_id": "CUST-0566",
+    "membership_tier": "Gold",
+    "loyalty_points": 3865
+  },
+  {
+    "customer_id": "CUST-0567",
+    "membership_tier": "Silver",
+    "loyalty_points": 4246
+  },
+  {
+    "customer_id": "CUST-0568",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3137
+  },
+  {
+    "customer_id": "CUST-0569",
+    "membership_tier": "Silver",
+    "loyalty_points": 1960
+  },
+  {
+    "customer_id": "CUST-0570",
+    "membership_tier": "Bronze",
+    "loyalty_points": 10
+  },
+  {
+    "customer_id": "CUST-0571",
+    "membership_tier": "Gold",
+    "loyalty_points": 447
+  },
+  {
+    "customer_id": "CUST-0572",
+    "membership_tier": "Silver",
+    "loyalty_points": 4077
+  },
+  {
+    "customer_id": "CUST-0573",
+    "membership_tier": "Silver",
+    "loyalty_points": 4068
+  },
+  {
+    "customer_id": "CUST-0574",
+    "membership_tier": "Bronze",
+    "loyalty_points": 645
+  },
+  {
+    "customer_id": "CUST-0575",
+    "membership_tier": "Silver",
+    "loyalty_points": 4576
+  },
+  {
+    "customer_id": "CUST-0576",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2605
+  },
+  {
+    "customer_id": "CUST-0577",
+    "membership_tier": "Bronze",
+    "loyalty_points": 134
+  },
+  {
+    "customer_id": "CUST-0578",
+    "membership_tier": "Gold",
+    "loyalty_points": 673
+  },
+  {
+    "customer_id": "CUST-0579",
+    "membership_tier": "Silver",
+    "loyalty_points": 339
+  },
+  {
+    "customer_id": "CUST-0580",
+    "membership_tier": "Silver",
+    "loyalty_points": 1697
+  },
+  {
+    "customer_id": "CUST-0581",
+    "membership_tier": "Silver",
+    "loyalty_points": 1324
+  },
+  {
+    "customer_id": "CUST-0582",
+    "membership_tier": "Silver",
+    "loyalty_points": 1360
+  },
+  {
+    "customer_id": "CUST-0583",
+    "membership_tier": "Gold",
+    "loyalty_points": 3252
+  },
+  {
+    "customer_id": "CUST-0584",
+    "membership_tier": "Bronze",
+    "loyalty_points": 3467
+  },
+  {
+    "customer_id": "CUST-0585",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1158
+  },
+  {
+    "customer_id": "CUST-0586",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2178
+  },
+  {
+    "customer_id": "CUST-0587",
+    "membership_tier": "Gold",
+    "loyalty_points": 1765
+  },
+  {
+    "customer_id": "CUST-0588",
+    "membership_tier": "Silver",
+    "loyalty_points": 2369
+  },
+  {
+    "customer_id": "CUST-0589",
+    "membership_tier": "Bronze",
+    "loyalty_points": 1873
+  },
+  {
+    "customer_id": "CUST-0590",
+    "membership_tier": "Silver",
+    "loyalty_points": 566
+  },
+  {
+    "customer_id": "CUST-0591",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4764
+  },
+  {
+    "customer_id": "CUST-0592",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2282
+  },
+  {
+    "customer_id": "CUST-0593",
+    "membership_tier": "Bronze",
+    "loyalty_points": 39
+  },
+  {
+    "customer_id": "CUST-0594",
+    "membership_tier": "Silver",
+    "loyalty_points": 692
+  },
+  {
+    "customer_id": "CUST-0595",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4014
+  },
+  {
+    "customer_id": "CUST-0596",
+    "membership_tier": "Gold",
+    "loyalty_points": 2633
+  },
+  {
+    "customer_id": "CUST-0597",
+    "membership_tier": "Bronze",
+    "loyalty_points": 4802
+  },
+  {
+    "customer_id": "CUST-0598",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2531
+  },
+  {
+    "customer_id": "CUST-0599",
+    "membership_tier": "Bronze",
+    "loyalty_points": 2708
+  },
+  {
+    "customer_id": "CUST-0600",
+    "membership_tier": "Gold",
+    "loyalty_points": 1917
+  }
+]
