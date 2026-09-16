@@ -241,6 +241,14 @@ The notebook was fully re-executed top-to-bottom after these fixes with **zero e
 - Feature engineering workflow
 - Preparing datasets for machine learning pipelines
 
+ ---
+
+## VIDEO LINK 
+
+ https://drive.google.com/file/d/1JUg2C-kEYpp9Gwk45g1aKVWcuu16MENM/view?usp=sharing
+
+---
+
 ---
 
 ## 🚀 Conclusion
