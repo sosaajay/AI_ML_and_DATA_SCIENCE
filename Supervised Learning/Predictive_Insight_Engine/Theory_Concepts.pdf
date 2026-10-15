@@ -1,0 +1,357 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6170
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (Predictive Insight Engine - House Price Prediction) Tj T* ET
+BT 1 0 0 1 513.2307 34.01575 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 757.1969 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (Predictive Insight Engine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 731.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 14 TL /F3 12 Tf 0 0 0 rg (Theory Concepts & Definitions \(supporting document\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.1969 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (1. Supervised Learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 665.1969 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Supervised learning learns a function f: X -> y from ) Tj /F2 10.5 Tf (labelled) Tj /F1 10.5 Tf ( examples \(inputs with known outputs\)) Tj T* (and then predicts y for new inputs. The two main problem types are regression and classification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.1969 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (2. Regression vs Classification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 599.1969 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Regression) Tj /F1 10.5 Tf ( predicts a continuous number \(house price, temperature\); typical metrics: MSE,) Tj T* (RMSE, MAE, R2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.1969 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Classification) Tj /F1 10.5 Tf ( predicts a discrete category \(spam / not spam\); typical metrics: accuracy,) Tj T* (precision, recall, F1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 533.1969 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (3. Simple Linear Regression \(SLR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.1969 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Model: ) Tj /F2 10.5 Tf (y = b0 + b1*x + e) Tj /F1 10.5 Tf (. b0 = intercept \(value of y when x = 0\), b1 = slope \(change in y for one) Tj T* (unit increase in x\), e = random error.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.1969 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 19.5 Tm /F1 10.5 Tf 15 TL (Parameters are estimated by Ordinary Least Squares \(OLS\): minimise the sum of squared) Tj T* (residuals. b1 = Cov\(x,y\)/Var\(x\), b0 = mean\(y\) - b1*mean\(x\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 431.1969 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (4. Multiple Linear Regression \(MLR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.1969 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Model: ) Tj /F2 10.5 Tf (y = b0 + b1*x1 + b2*x2 + ... + bp*xp + e) Tj /F1 10.5 Tf (. Each coefficient is the change in y for a one-unit) Tj T* (change in that feature ) Tj /F4 10.5 Tf (holding the others constant) Tj /F1 10.5 Tf (. Closed form \(Normal Equation\): w = \(X'X\)^-1 X'y.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 365.1969 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (5. Polynomial Regression) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 329.1969 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Linear regression applied to polynomial features \(x, x^2, x^3, ... and interaction terms\). It is still ) Tj /F4 10.5 Tf (linear) Tj T* (in the parameters) Tj /F1 10.5 Tf ( but can fit curves. Higher degree = more flexibility = higher risk of overfitting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.1969 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (6. Assumptions of Linear Regression) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.1969 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Linearity) Tj /F1 10.5 Tf ( - relationship between X and y is linear \(check: scatter / residual-vs-fitted plot\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 257.1969 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Independence) Tj /F1 10.5 Tf ( of errors - no autocorrelation \(Durbin-Watson ~ 2\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 236.1969 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Homoscedasticity) Tj /F1 10.5 Tf ( - constant variance of residuals \(no funnel shape\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.1969 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Normality) Tj /F1 10.5 Tf ( of residuals \(histogram, Q-Q plot\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 194.1969 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (No multicollinearity) Tj /F1 10.5 Tf ( among predictors \(VIF < 5-10\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 164.1969 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (7. Evaluation Metrics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 143.1969 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (MSE) Tj /F1 10.5 Tf ( = \(1/n\) sum \(y - y_hat\)^2 - penalises large errors, units squared.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 122.1969 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (RMSE) Tj /F1 10.5 Tf ( = sqrt\(MSE\) - error in the units of y.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 101.1969 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (MAE) Tj /F1 10.5 Tf ( = \(1/n\) sum |y - y_hat| - average absolute error, robust to outliers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 80.19685 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (R2) Tj /F1 10.5 Tf ( = 1 - SS_res/SS_tot - share of variance explained \(1 = perfect, 0 = predicts the mean\).) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+0.35 g
+BT
+1 0 0 1 461.2396 805.8898 Tm
+(Author\072 Ajay Sosa) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 13 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2392
+>>
+stream
+Gau`UD/\/e&H:NnEM!H3Me0S)[Mj8'\gC^?'l+blqdOAL,hc9CM(0snc$oWZ84f+O3H]ofJQ'=>jRMY`mZ":U%_c3H*p3O,jtJu?_=_3M"?3OeR/[2bo4O\f2'XmqM!V?kDGM62$=3H';m'ebgIRriFr5Le$[uJFmUSA0Gn/DPaceQadMi\ZKh>G4$;QLZ>&Y=pn"Ni&hTIaQG;E#/7kh]0q/b9"0AZ;<cZc6n8S9O`?>mdf1nn7gHAt8?0X+F5#`Uc$[PL#OCb82qiFk251>:,/\H6R*:8_:pXu^II/p/PK@!q+1!.(s;/cIW<W`@"Oph4b+gR)+Z]L4b)=BP4pd9@SBX9-/IMkdQQ<gmBA'M;]9/6+*6.3ql.%RlpqEX?1]V85nt"f8m7`\8D3*]P,FZph=HU4>).?-f)"FPHDa_$'#sVqr\T["U:Tk)uR[Gg9:m(M/n5n.Y^HKi4[AW,TVfU3)Gk@5R<7e0;E'S/_.C1+4(5XZ>Bl>;8Y`.':G)>'%eok);G.0iUJLQA^E/2!M#8<f!S#TIprAKjJW6ok5e["CeM59rC3H??0)Gede`)S'th(m`iS_CIln8')*t-+@->a!A!_hL0LE6Wa_;4#K/+:=iH61'ed'BC5io[V2tqD(l!ISp/<f`n!7+oZk_9`k7*d$[&VJ"?pt-H'hS/X!+gcHdfe;^C@4LBMh^[m#Z,5AB)De_R">af7+e?7f$KSZ%Bmj6[4@pUdG2p0WQ!7.N4A:>&9^52IOMR=mt.7RhVBTuJl)5_!k@/(19oLND_S`'/'.%$X`;5EU>[dn%3@H%VQ>ULiom0G#E6-^UP!'*;G[Ys2up/(b^D;Y7UtBl&qr?dBLc2SiM/W(b6&FbSKI=6mJq+%?V2A<Gpp;af3nOi)BQA(>@cVU*rHG;NBb=k`0GJ8;GtoPInTeb9R(pMj,`n=12=$M)B>&@jKOaJ1G-3,a944OV<Y]=\<K,V</](q>fErU_0.*+DCISE;(.j6d^[Sim%U3FCrL)."#(-qZcBn$W:oo"*%6:!74^Gt'Z<^nPAqGp*#erO?TP4715a@8Hr%-6QPA:'4Wl3]=CoW#JrnSEPpcL?Xa6^N=dKTs)Q>SE\Oi26o/*W3%6l7F#*[*.?^Q)s%E<`eFn[ap0n(1:J`f06@hk;Wh%L0<iuEo<044l8?K0]F=B;RB4GOZ?"E,+-AoVo$)r8fPV;?nCMM7cGkM=,A(ct5n\]cfIbW(eJ?At@n)pXP<$p/D"F3.LH.n'b7Mi:)E_nR0iS+Pi#Nj<oSbsna->U&El7iXdq57=)7RBR#Kf:1@oJNnaT]Urd!kW5NE<Q=T1QO1'.$d1A=#QWCC)Srkq6q8:h0,Jsn&9t',Z?r<-$5V3UWTmSul.]X_mh"O,SMmF:%(N)^BY_Jg$'FG=a#&WJFGuoPDLn*##K<?#fj"6#E!2,=@t3dU0$H7^SRHGB;g03k+,j>rdnqAa-;@R#*f`uFq<'f(bmDIag%<bII3j'b3j2taK=Ms4L*e+-<0+$=((`uSWgc>7VjU"%#:0<\fKA?e;O</YfpI7tbWgi+FbU&kA0tD5R30>Eo<[m9k!d\H[,Dh5F:Io9s'b;#=C9F3F3]loZ)WssmCRLP%Ur]kWk31HA@K(!h1uc+;>Lm%[;.nn+6;-^kW`&_qM)[,3-n)<<De6uf#@d'\Vq+?RhX0pP_B,K-sW?/cE8n]dfQ(#9kmACZ/Ef:)H4c4*_Z#SWrlh8.r%31RlcFGHNWg,e[EiO04G/FeNI#=0T_l;j/uIP1b95B7<JkbP=\9en-!\#BT_t]:?--W?q>mDo=8aNqP?tH5"b"]]ukQ.>-@05VHZ@PS/HL'Y!&7C1DlfTLtD2X$Dgf[-ZXN3I&EBA7mZ3\?q6nHSH\dK`PZi--6-9s,M'VV8oqldD>eq8a[:kNIC8d/^_skEF.J0T\R%5&8RQ;Zm)ZHFM:YM:W$F#seTuJG+(4h.[sQBd^G4jYUoQGd.lKNq!aK`cc&po'Hd?No_Ajp%csaMPs3B1#m,7;ug0jIOTr1TKP=o(e'8^F6J#D%0)>\P`X%e>Wq7XK=J97bpRl9V33oP:P>.bF>C:uk*Z-g=qM)p:GLRSP8;1=iNrrK'h\"kk:AFldI:V$P]hO##0`8l,LNct=`7$HM1JM]5s4$&ZFp;T6)kRaIA*Rl,%\bCmQ]uY(!Ce._&IHDRn^4ale=:Ydu!\X*C\p$8#"M@V[2"^ELe/Xm\h"$hma@1,6%(A(M?]jcVB-kMd_.Tc^fI9XDcmb)R6/r(%^Vt\(HiN^"j-s\)!1U,rjkI(,5;Tgr6V`-Hfm2rV-MF>'&JXVk6sEOIc9Sl[n95*7Fo\":m5d)XIc#&(c2u6ONOI`RUOM,</nhcld>i_'06m1TQN>Tf~>
+endstream
+endobj
+13 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000433 00000 n 
+0000006655 00000 n 
+0000006762 00000 n 
+0000006869 00000 n 
+0000006981 00000 n 
+0000007100 00000 n 
+0000007216 00000 n 
+0000007418 00000 n 
+0000009903 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9966
+%%EOF
